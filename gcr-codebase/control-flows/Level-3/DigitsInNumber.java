@@ -21,6 +21,7 @@ public class DigitsInNumber {
         //  Displaying result
         System.out.println("The number of digits is: " + count);
 
-        sc.close();
+        sc.close(); 
     }
 }
+ 
