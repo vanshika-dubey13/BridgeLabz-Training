@@ -1,17 +1,24 @@
 package com.constructorandinstancevariables;
 
 public class VehicleMain {
-	 public static void main(String[] args) {
+    public static void main(String[] args) {
 
-	        Vehicle v1 = new Vehicle("Alina", "Car");
-	        Vehicle v2 = new Vehicle("David", "Motorcycle");
+        Vehicle v1 = new Vehicle("Rohit", "Car");
+        Vehicle v2 = new Vehicle("Sneha", "Bike");
 
-	        v1.displayVehicleDetails();
-	        System.out.println();
+        // Display details before updating fee
+        v1.displayVehicleDetails();
+        System.out.println();
+        v2.displayVehicleDetails();
 
-	        // Update registration fee
-	        Vehicle.updateRegistrationFee(6000.0);
+        // Update registration fee (class method)
+        Vehicle.updateRegistrationFee(6000.0);
 
-	        v2.displayVehicleDetails();
-	    }
+        System.out.println("\nAfter updating registration fee:\n");
+
+        // Fee updated for all vehicles
+        v1.displayVehicleDetails();
+        System.out.println();
+        v2.displayVehicleDetails();
+    }
 }

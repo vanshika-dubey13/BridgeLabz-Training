@@ -1,32 +1,31 @@
 package com.constructorandinstancevariables;
 
-class Vehicle {
+public class Vehicle {
 
     // Instance variables
-    String ownerName;
-    String vehicleType;
+    private String ownerName;
+    private String vehicleType;
 
-    // Class variable (same for all vehicles)
-    static double registrationFee = 5000.0;
+    // Class variable (shared by all vehicles)
+    private static double registrationFee = 5000.0;
 
     // Constructor
-    Vehicle(String ownerName, String vehicleType) {
+    public Vehicle(String ownerName, String vehicleType) {
         this.ownerName = ownerName;
         this.vehicleType = vehicleType;
     }
 
     // Instance method
-    void displayVehicleDetails() {
+    public void displayVehicleDetails() {
         System.out.println("Owner Name: " + ownerName);
         System.out.println("Vehicle Type: " + vehicleType);
-        System.out.println("Registration Fee: Rs" + registrationFee);
+        System.out.println("Registration Fee: " + registrationFee);
     }
 
-    // Class method
-    static void updateRegistrationFee(double newFee) {
-        registrationFee = newFee;
+    // Class method to update registration fee
+    public static void updateRegistrationFee(double newFee) {
+        if (newFee > 0) {
+            registrationFee = newFee;
+        }
     }
-
-    // Main method to test the class
-   
 }
