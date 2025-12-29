@@ -1,4 +1,4 @@
-package com.keywords;
+package com.keywords.level1;
 
 public class BankAccountMain {
 	// Main method for testing
