@@ -30,4 +30,9 @@ class Course {
             System.out.println("- " + s.getName());
         }
     }
+
+	public void setProfessor(Professor professor) {
+		// TODO Auto-generated method stub
+		
+	}
 }
