@@ -3,6 +3,7 @@ package com.objectorienteddesign;
 public class UniversityMain {
     public static void main(String[] args) {
 
+    	//creating multiple faculties objects
         Faculty f1 = new Faculty("Dr. Smith");
         Faculty f2 = new Faculty("Dr. Johnson");
 
