@@ -113,7 +113,7 @@ BridgeLabz-Training/
 ---
 
 ## 🗓 Day 2 – Built-in Functions & Extra Practice  
-*(Date: 23-Dec-2025)*
+*(Date: 24-Dec-2025)*
 
 - Practiced Java built-in functions.
 - Implemented utility programs such as:
@@ -126,5 +126,23 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Day 7 – Built-in Functions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+---
+
+## 🗓 Day 3 – Scenario-Based Problem Solving 
+*(Date: 23-Dec-2025)*
+
+- Solved scenario-based core java problems
+- Implemented real-world programs such as:
+  - The Coffee Counter Chronicles
+  - Maya’s BMI Fitness Tracker
+- Improved understanding of:
+  - Input handling
+  - Jump statements
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 7 – Built-in Functions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
