@@ -183,3 +183,19 @@ BridgeLabz-Training/
 👉 [Day 1 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+## 🗓 Day 2 – Scenario-Based Problem Solving 
+*(Date: 30-Dec-2025)*
+
+- Solved 5 scenario-based core java problems
+- Implemented real-world programs such as:
+  - Temperature Logger
+  - Train Reservation Queue 
+  - Sandeep’s Fitness Challenge Tracker
+  - Movie Ticket Booking App
+  - Rohan’s Library Reminder App 
+
+🔗 *Code Link:*  
+👉 [Day 2 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
