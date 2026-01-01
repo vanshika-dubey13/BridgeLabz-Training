@@ -91,8 +91,8 @@ BridgeLabz-Training/
 👉 [Day 5 – Arrays](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
-
-## 🗓 Day 6 – Strings & Methods  
+### 📅 Week 2: String, Built-In Functions & Scenario-Based Problem Solving
+## 🗓 Day 1 – Strings & Methods  
 *(Date: 22-Dec-2025)*
 
 - Studied String concepts:
@@ -112,7 +112,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 7 – Built-in Functions & Extra Practice  
+## 🗓 Day 2 – Built-in Functions & Extra Practice  
 *(Date: 23-Dec-2025)*
 
 - Practiced Java built-in functions.
