@@ -199,3 +199,19 @@ BridgeLabz-Training/
 👉 [Day 2 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+## 🗓 Day 3 – Scenario-Based Problem Solving 
+*(Date: 31-Dec-2025)*
+
+- Solved 5 scenario-based core java problems
+- Implemented real-world programs such as:
+  - Digital Watch Simulation
+  - Online Quiz Application
+  - Currency Exchange Kiosk
+  - Bus Route Distance Tracker
+  - Festival Lucky Draw
+
+🔗 *Code Link:*  
+👉 [Day 3 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
