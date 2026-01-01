@@ -143,6 +143,6 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-👉 [Day 7 – Built-in Functions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 7 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
