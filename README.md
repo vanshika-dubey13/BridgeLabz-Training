@@ -1,6 +1,6 @@
-## 📅 Week 2: Git, GitHub & Java Programming Fundamentals
+### 📅 Week 2: Object Oriented Programming Fundamentals
 
-## 🗓 Day 5 – Set-up java-oops-practice branch & basics of Class & Object  
+## 🗓 Day 5 – Set-up java-oops-practice, basics of Class & Object  
 *(Date: 26-Dec-2025)*
 
 - Created a new branch java-oops-practice
