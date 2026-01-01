@@ -52,6 +52,6 @@ BridgeLabz-Training/
 - Understood the uasage of static keyword
 
 🔗 *Code Link:*  
-👉 [Day 5 – Constructor and Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)
+👉 [Day 6 – Constructor and Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)
 
 ---
