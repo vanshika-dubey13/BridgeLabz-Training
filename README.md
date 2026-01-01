@@ -108,12 +108,12 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 6 – Strings & Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 1 – Strings & Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
 
 ## 🗓 Day 2 – Built-in Functions & Extra Practice  
-*(Date: 24-Dec-2025)*
+*(Date: 23-Dec-2025)*
 
 - Practiced Java built-in functions.
 - Implemented utility programs such as:
@@ -125,12 +125,12 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-👉 [Day 7 – Built-in Functions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+👉 [Day 2 – Built-in Functions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
 
 ## 🗓 Day 3 – Scenario-Based Problem Solving 
-*(Date: 23-Dec-2025)*
+*(Date: 24-Dec-2025)*
 
 - Solved scenario-based core java problems
 - Implemented real-world programs such as:
@@ -143,6 +143,25 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-👉 [Day 7 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 3 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+## 🗓 Day 5 – Scenario-Based Problem Solving 
+*(Date: 26-Dec-2025)*
+
+- Solved 3 scenario-based core java problems
+- Implemented real-world programs such as:
+  - Election Booth Manager ️
+  - Metro Smart Card Fare Deduction
+  - Raj’s Result Generator ‍
+- Improved understanding of:
+  - Input handling
+  - Switch statements
+  - Ternary Operator
+  - Loops
+
+🔗 *Code Link:*  
+👉 [Day 5 – Scenario-Based-Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
