@@ -34,3 +34,24 @@ BridgeLabz-Training/
 👉 [Day 5 – Class And Object](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 ---
+
+## 🗓 Day 6 – Constructors, Instance & Class Variables, Access Modifiers   
+*(Date: 27-Dec-2025)*
+
+- Studied different types of Constructors 
+  -Default Constructor
+  -Parametrized Constructor
+  -Copy Constructor
+  
+- Studied different types of Access Modifiers 
+  -default
+  -public
+  -private
+  -protected
+
+- Understood the uasage of static keyword
+
+🔗 *Code Link:*  
+👉 [Day 5 – Constructor and Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)
+
+---
