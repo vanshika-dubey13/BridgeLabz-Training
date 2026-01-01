@@ -76,3 +76,21 @@ BridgeLabz-Training/
 👉 [Day 1 – Object Oriented Programming Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)
 
 ---
+
+## 🗓 Day 2 – Object Modeling, Class Diagram
+*(Date: 29-Dec-2025)*
+
+- Classes vs. Objects in Java
+- Studied various diagrams
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Implemented Object Relationships and Communication
+  - Association
+  - Aggregation
+  - Communication  between objects
+
+🔗 *Code Link:*  
+👉 [Day 2 – Object Modeling, Class Diagram]
+
+---
