@@ -73,6 +73,6 @@ BridgeLabz-Training/
 - Solved practice problems based on static
 
 🔗 *Code Link:*  
-👉 [Day 6 – Object Oriented Programming Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)
+👉 [Day 1 – Object Oriented Programming Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)
 
 ---
