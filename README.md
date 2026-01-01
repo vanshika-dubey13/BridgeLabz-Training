@@ -42,7 +42,6 @@ BridgeLabz-Training/
   -Default Constructor
   -Parametrized Constructor
   -Copy Constructor
-  
 - Studied different types of Access Modifiers 
   -default
   -public
@@ -53,5 +52,27 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Day 6 – Constructor and Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)
+
+---
+
+### 📅 Week 3: Eclipse Introduction & Object Oriented Programming
+
+## 🗓 Day 1 – Set-up Eclipse, Oops Keywords 
+*(Date: 29-Dec-2025)*
+
+- Installed & configured Eclipse Editor
+- Studied different keywords 
+  - this
+  - static 
+  - final 
+  - instanceof operator
+- Learnt about different uses of static
+  - static variable
+  - static block
+  - static nested class
+- Solved practice problems based on static
+
+🔗 *Code Link:*  
+👉 [Day 6 – Object Oriented Programming Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)
 
 ---
