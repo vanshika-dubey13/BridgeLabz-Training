@@ -82,3 +82,11 @@ BridgeLabz-Training/
 
 **Code:** [Arrays](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
+### Day 6 – Methods in Java  
+**Date:** 22-Dec-2025
+
+> **Learning:** Studied methods in Java.  
+> **Practice:** Solved practice problems on methods.  
+> **Coding Practice:** Implemented programs using methods.
+
+**Code:** [Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
