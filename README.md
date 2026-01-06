@@ -55,3 +55,11 @@ BridgeLabz-Training/
 
 [Basic Java Programs](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/programming-prerequisit)
 
+### Day 3 – Git Practice & Basic Java Programs  
+**Date:** 18-Dec-2025
+
+> **Java Learning:** Studied Java programming elements.  
+> **Operators & Inputs:** Practiced operators and user inputs.  
+> **Coding Practice:** Solved programs and pushed code to GitHub.
+
+**Code:** [Programming Elements](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
