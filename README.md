@@ -126,3 +126,17 @@ BridgeLabz-Training/
 > Solved programming questions based on object and classes  
 
 **Code:** [Classes and objects](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+
+### Day 2 – Constructors, Instance and Class Variables, Access Modifiers  
+**Date:** 27 Dec 2025
+
+> Studied constructors, instance and class variables, access modifiers  
+> Studied use of getter and setter  
+> Solved programming questions and pushed codes  
+
+**Code:** [Constructor and instance variables](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)  
+
+> Solved scenario based questions of core java programming  
+
+**Code:** [Scenario based questions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
