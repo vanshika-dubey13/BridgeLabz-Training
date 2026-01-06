@@ -22,3 +22,12 @@
 **Code:** [Stack and Queue](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stack) 
 **Code:** [Hash map](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashmap)
 **Code:** [Hash set](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashset/longestconsecutivesequence)
+
+### Day 3 – Sorting Algorithms  
+**Date:** 05 Jan 2026
+
+> Studied Sorting algorithms  
+> Solved questions based on various algorithms  
+> Pushed codes to GitHub  
+
+**Code:** [Sorting Algorithms](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/sorting)
