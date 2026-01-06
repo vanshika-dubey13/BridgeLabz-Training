@@ -1,7 +1,7 @@
 # BridgeLabz-Training
 Repository Overview
 
-This repository documents my progress throughout the BridgeLabz Fellowship Program, capturing daily learning, coding practice, and hands-on implementation across multiple technical tracks.
+This repository documents my progress throughout the BridgeLabz Fellowship Program, capturing daily learning, coding practice, and hands-on implementation across multiple technical tracks. 
 
 Learning Tracks :
 
