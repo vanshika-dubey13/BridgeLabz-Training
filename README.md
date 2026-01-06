@@ -215,3 +215,22 @@ BridgeLabz-Training/
 **Code:** [Stack and Queue](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stack)  
 **Code:** [Hash map](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashmap)
 **Code:** [Hash set](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashset/longestconsecutivesequence)
+
+> Solved scenario based questions on OOPs:  
+- Hospital Patient Management System  
+- Vehicle Rental Application  
+- University Course Enrollment System  
+
+**Code:** [Scenario based questions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
+### Day 3 – Scenario Based Questions Continued  
+**Date:** 04 Jan 2026
+
+> Solved scenario based questions and pushed codes to Github:  
+- E-Wallet Application  
+- Smart Home Automation System  
+- "CabbyGo – A Ride-Hailing App in the Making"  
+- "MyBank – Managing Customer Accounts"  
+
+**Code:** [Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
