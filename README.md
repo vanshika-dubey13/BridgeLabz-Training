@@ -241,3 +241,12 @@ BridgeLabz-Training/
 > Solved questions based on various algorithms  
 
 **Code:** [Sorting Algorithms](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/sorting)
+
+### Day 6 – Scenario Based Questions  
+**Date:** 05 Jan 2026
+
+> Solved scenario based questions:  
+- CampusConnect – College Information System
+  [Code:](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/collegeinformationsystem) 
+- SwiftCart – The Grocery Shopping App
+- [Code](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
