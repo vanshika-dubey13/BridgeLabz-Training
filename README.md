@@ -98,3 +98,12 @@ BridgeLabz-Training/
 > Solved practice problem based on string.  
 
 **Code:** [Strings](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+### Day 8 – Date and Time Concept and Built-in Functions in Java  
+**Date:** 24 Dec 2025
+
+> Studied how to get dates in different formats in java  
+> Solved extra practice problems based on bult-in functions  
+> Solved extra practice problem based on methods.  
+
+**Code:** [Extras](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
