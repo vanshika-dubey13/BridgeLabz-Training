@@ -194,3 +194,15 @@ BridgeLabz-Training/
 > Studied the concepts of Encapsulation, Interface, Abstract classes, Polymorphism  
 
 **Code:** [Encapsulation Abstract classes and polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
+## Week 3 – Data Structure and Algorithms
+
+### Day 1 – DSA Prep Plan & LinkedList  
+**Date:** 02 Jan 2026
+
+> DSA Prep Plan & Roadmap  
+> Introduction to Data Structure  
+> Studied Linked List  
+
+**Code:** [Linked List](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/linkedlist)
+
