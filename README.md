@@ -63,3 +63,13 @@ BridgeLabz-Training/
 > **Coding Practice:** Solved programs and pushed code to GitHub.
 
 **Code:** [Programming Elements](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+### Day 4 – Java Control Flow Programs  
+**Date:** 19-Dec-2025
+
+> **Learning:** Studied Java control flow.  
+> **Practice:** Solved problems on control flow.  
+> **Coding Practice:** Implemented programs related to control flow.
+
+**Code:** [Control Flow Programs](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
