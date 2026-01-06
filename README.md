@@ -234,3 +234,10 @@ BridgeLabz-Training/
 
 **Code:** [Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
 
+### Day 5 – Sorting Algorithms  
+**Date:** 05 Jan 2026
+
+> Studied Sorting algorithms  
+> Solved questions based on various algorithms  
+
+**Code:** [Sorting Algorithms](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/sorting)
