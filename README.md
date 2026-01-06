@@ -34,11 +34,12 @@ BridgeLabz-Training/
 |-----README.md/
 ```
 
-Week 1: Git, GitHub & Core Java Fundamentals
-Day 1 – Git & GitHub Setup
-Date: 16-Dec-2025
-```
-Setup: Installed and configured Git globally.
-Repository: Initialized the repository, set up remote origin, and managed branches.
-Commands: Mastered git init, clone, add, commit, push, and status.
-```
+## Week 1: Git, GitHub & Core Java Fundamentals
+
+### Day 1 – Git & GitHub Setup  
+**Date:** 16-Dec-2025
+
+> **Setup:** Installed and configured Git globally.  
+> **Repository:** Initialized the repository, set up remote origin, and managed branches.  
+> **Commands:** Mastered `git init`, `clone`, `add`, `commit`, `push`, and `status`.
+
