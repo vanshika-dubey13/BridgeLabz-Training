@@ -73,3 +73,12 @@ BridgeLabz-Training/
 
 **Code:** [Control Flow Programs](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
+### Day 5 – Arrays  
+**Date:** 20-Dec-2025
+
+> **Learning:** Studied arrays.  
+> **Practice:** Solved practice problems on arrays.  
+> **Coding Practice:** Implemented array programs.
+
+**Code:** [Arrays](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
