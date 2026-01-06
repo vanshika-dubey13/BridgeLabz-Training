@@ -188,3 +188,9 @@ BridgeLabz-Training/
 
 **Code:** [Scenario-Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
 
+### Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism  
+**Date:** 01 Jan 2026
+
+> Studied the concepts of Encapsulation, Interface, Abstract classes, Polymorphism  
+
+**Code:** [Encapsulation Abstract classes and polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
