@@ -107,3 +107,12 @@ BridgeLabz-Training/
 > Solved extra practice problem based on methods.  
 
 **Code:** [Extras](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+### Day 9 – Scenario Based Questions  
+**Date:** 25 Dec 2025
+
+Solved scenario based questions on:  
+- The Coffee Counter Chronicles  
+- Maya’s BMI Fitness Tracker  
+
+**Code:** [Code Link](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
