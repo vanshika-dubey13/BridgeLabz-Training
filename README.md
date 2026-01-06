@@ -206,3 +206,12 @@ BridgeLabz-Training/
 
 **Code:** [Linked List](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/linkedlist)
 
+### Day 2 – Stack, Queue, Hashmap and Hashing Function  
+**Date:** 03 Jan 2026
+
+> Studied stack, queue, hashmap and hash functions  
+> Solved questions and pushed codes to Github  
+
+**Code:** [Stack and Queue](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stack)  
+**Code:** [Hash map](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashmap)
+**Code:** [Hash set](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashset/longestconsecutivesequence)
