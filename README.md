@@ -153,3 +153,20 @@ BridgeLabz-Training/
 - Number Guessing Game, and more...  
 
 **Scenario Based:** [Scenario-Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
+### Day 4 – Object Oriented Design Principles  
+**Date:** 30 Dec 2025
+
+> Studied object modeling  
+> Studied design principles  
+
+**Code:** [Object modeling](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectorienteddesign)  
+
+> Solved scenario based questions based on:  
+- Temperature Logger 
+- Train Reservation Queue  
+- Sandeep’s Fitness Challenge Tracker  
+- Movie Ticket Booking App 
+- Rohan’s Library Reminder App
+
+**Code Link:** [Oops-Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
