@@ -140,3 +140,16 @@ BridgeLabz-Training/
 
 **Code:** [Scenario based questions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
 
+### Day 3 – This, Static, Final Keywords and instanceof Operator  
+**Date:** 29 Dec 2025
+
+> Studied this, static, final keywords and instanceof operator  
+
+**Code:** [Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)  
+
+> Solved scenario based questions on core java concepts  
+- Shopkeeper Dashboard
+- Parking Lot
+- Number Guessing Game, and more...  
+
+**Scenario Based:** [Scenario-Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
