@@ -111,8 +111,18 @@ BridgeLabz-Training/
 ### Day 9 – Scenario Based Questions  
 **Date:** 25 Dec 2025
 
-Solved scenario based questions on:  
-- The Coffee Counter Chronicles  
-- Maya’s BMI Fitness Tracker  
+> Solved scenario based questions on:  
+> - The Coffee Counter Chronicles  
+> - Maya’s BMI Fitness Tracker  
 
 **Code:** [Code Link](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+## Week 2 – Object Oriented Programming
+
+### Day 1 – Object Oriented Programming Fundamentals  
+**Date:** 26 Dec 2025
+
+> Studied fundamentals of objec oriented programming  
+> Solved programming questions based on object and classes  
+
+**Code:** [Classes and objects](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
