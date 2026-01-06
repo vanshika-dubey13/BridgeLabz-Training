@@ -170,3 +170,11 @@ BridgeLabz-Training/
 - Rohan’s Library Reminder App
 
 **Code Link:** [Oops-Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
+### Day 5 – Inheritance  
+**Date:** 31 Dec 2025
+
+> Studied Inheritance  
+> Solved multiple questions and pushed codes to Github  
+
+**Code:** [Inheritance](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
