@@ -178,3 +178,13 @@ BridgeLabz-Training/
 > Solved multiple questions and pushed codes to Github  
 
 **Code:** [Inheritance](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+> Solved scenario based questions based on:  
+- Digital Watch Simulation  
+- Online Quiz Application
+- Currency Exchange Kiosk 
+- Bus Route Distance Tracker  
+- Festival Lucky Draw   
+
+**Code:** [Scenario-Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
