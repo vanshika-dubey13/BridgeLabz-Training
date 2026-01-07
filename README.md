@@ -148,4 +148,22 @@ BridgeLabz-Training/
   - MyBank – Managing Customer Accounts
 
 🔗 *Code Link:*  
-👉 [Day 3 – OOPS Scenario-Based Problem Solving](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+👉 [CabbyGo](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/ridehailingapp)
+[MyBank](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/managingcustomeraccounts)
+
+---
+
+### 📅 Week 3: OOPS- Scenario Based Problem Solving
+
+## 🗓 Day 1 – OOPS- Scenario Based Problem Solving
+*(Date: 05-Dec-2025)*
+
+- Solved 2 oops scenario based problems
+  - CampusConnect – College Information System
+  - SwiftCart – The Grocery Shopping App
+
+🔗 *Code Link:*  
+👉 [CampusConnect](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/collegeinformationsystem)
+[SwiftCart](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
+
+---
