@@ -91,6 +91,23 @@ BridgeLabz-Training/
   - Communication  between objects
 
 🔗 *Code Link:*  
-👉 [Day 2 – Object Modeling, Class Diagram]
+👉 [Day 2 – Object Modeling, Class Diagram](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectorienteddesign)
 
 ---
+
+## 🗓 Day 3 – Inheritance & Access Modifiers
+*(Date: 31-Dec-2025)*
+
+- Inheritance
+  - Single Level Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+  - Key Features of Inheritance
+  - Method Overriding
+  - Constructor Inheritance in Java
+  - Access Modifiers and Inheritance
+ 
+🔗 *Code Link:*  
+👉 [Day 3 – Inheritance & Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+  
