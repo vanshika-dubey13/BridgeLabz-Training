@@ -110,4 +110,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 👉 [Day 3 – Inheritance & Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
-  
+---
+
+## 🗓 Day 4 – Encapsulation, Interface, Abstract Classes, and Polymorphism
+*(Date: 01-Jan-2026)*
+
+- Studied the concepts of Encapsulation
+- Studied Interface
+- Studied Abstract Classes
+- Studied Polymorphism
+
+🔗 *Code Link:*  
+👉 [Day 3 – Encapsulation, Interface, Abstract Classes, and Polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
