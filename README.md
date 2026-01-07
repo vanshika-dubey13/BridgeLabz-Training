@@ -167,3 +167,17 @@ BridgeLabz-Training/
 [SwiftCart](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
 
 ---
+
+## 🗓 Day 2 – OOPS- Scenario Based Problem Solving
+*(Date: 05-Dec-2025)*
+
+- Solved 2 oops scenario based problems
+  - EduMentor – Personalized Learning Platform
+  - FitTrack – Your Personal Fitness Tracker
+
+🔗 *Code Link:*  
+👉 [EduMentor](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalizedlearningplatform)
+
+[SwiftCart](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalfitnesstracker)
+
+---
