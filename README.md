@@ -123,3 +123,17 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 👉 [Day 3 – Encapsulation, Interface, Abstract Classes, and Polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
+---
+
+## 🗓 Day 5 – OOPS Scenario-Based Problem Solving
+*(Date: 02-Jan-2026)*
+
+- Solved 5 oops scenario based problems
+  - Hospital Patient Management System
+  - Vehicle Rental Application
+  - University Course Enrollment System
+  - E-Wallet Application
+  - Smart Home Automation System
+
+🔗 *Code Link:*  
+👉 [Day 3 – OOPS Scenario-Based Problem Solving](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
