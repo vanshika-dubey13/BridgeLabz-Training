@@ -149,6 +149,7 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [CabbyGo](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/ridehailingapp)
+
 [MyBank](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/managingcustomeraccounts)
 
 ---
@@ -164,6 +165,7 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [CampusConnect](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/collegeinformationsystem)
+
 [SwiftCart](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
 
 ---
@@ -179,8 +181,28 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [EduMentor](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalizedlearningplatform)
+
 [FitTrack](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalfitnesstracker)
+
 [PetPal](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/virtualpetcare)
+
 [EventEase](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/eventmanagementplatform)
+
+---
+
+## 🗓 Day 3 – OOPS- Scenario Based Problem Solving
+*(Date: 07 -Dec-2025)*
+
+- Solved 3 oops scenario based problems
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+🔗 *Code Link:*  
+👉 [LoanBuddy](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/loanapprovalautomation)
+
+[BookBazaar](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/digitalbookstoresystem)
+
+[ParkEase](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/smartparkingsystem)
 
 ---
