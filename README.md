@@ -242,11 +242,33 @@ BridgeLabz-Training/
 
 **Code:** [Sorting Algorithms](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/sorting)
 
-### Day 6 – Scenario Based Questions  
-**Date:** 05 Jan 2026
-
 > Solved scenario based questions:  
 - CampusConnect – College Information System
   [Code:](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/collegeinformationsystem) 
 - SwiftCart – The Grocery Shopping App
-- [Code](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
+  [Code](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
+
+  ---
+
+### Day 6 – Searching, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+**Date:** 06 Jan 2026
+
+> Solved 4 scenario based questions in oops:  
+- EduMentor – Personalized Learning Platform
+- FitTrack – Your Personal Fitness Tracker
+- PetPal – Virtual Pet Care App
+- EventEase – Event Management Platform
+- 
+  [Scenario-Based:](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+  
+> Studied & implemented questions using
+- Searching
+  - Linear Search & Binary Search
+  [Searching](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/searching)
+- [StringBuilder](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stringbuilder)
+- [StringBuffer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stringbuffer)
+- [BufferedReader]()
+- [FileReader](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/filereader)
+- [InputStreamReader]()
+  
+  ---
