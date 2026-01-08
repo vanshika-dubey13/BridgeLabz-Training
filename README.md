@@ -9,6 +9,8 @@
 
 **Code:** [Linked List](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/linkedlist)
 
+---
+
 ### Day 2 – Stack, Queue, Hashmap and Hashing Function  
 **Date:** 03 Jan 2026
 
@@ -23,6 +25,8 @@
 **Code:** [Hash map](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashmap)
 **Code:** [Hash set](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashset/longestconsecutivesequence)
 
+---
+
 ### Day 3 – Sorting Algorithms  
 **Date:** 05 Jan 2026
 
@@ -31,3 +35,21 @@
 > Pushed codes to GitHub  
 
 **Code:** [Sorting Algorithms](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/sorting)
+
+---
+
+### Day 4 – Searching, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+**Date:** 06 Jan 2026
+
+> Studied Searching
+> - Linear Search
+> - Binary Search
+> StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+
+**Code:** [Searching](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/searching)
+          [StringBuilder](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stringbuilder)
+          [StringBuffer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stringbuffer)
+          [InputStreamReader]()
+          [FileReader](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/filereader)
+
+---
