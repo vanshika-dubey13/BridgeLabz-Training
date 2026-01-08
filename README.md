@@ -272,3 +272,21 @@ BridgeLabz-Training/
 - [InputStreamReader]()
   
   ---
+
+### Day 7 – Algorithm's Runtime Analysis & Big-O Notation
+**Date:** 07 Jan 2026
+
+> Algorithm's Runtime Analysis & Big-O Notation
+ - Runtime Analysis
+ - Best, Worst & Average Case Complexities
+
+[Code]()
+
+> OOPS Scenario Based Problem Solving
+ - LoanBuddy – Loan Approval Automation
+ - BookBazaar – Digital Bookstore System
+ - ParkEase – Smart Parking Management System
+
+[Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
+---
