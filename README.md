@@ -169,15 +169,18 @@ BridgeLabz-Training/
 ---
 
 ## 🗓 Day 2 – OOPS- Scenario Based Problem Solving
-*(Date: 05-Dec-2025)*
+*(Date: 06-Dec-2025)*
 
-- Solved 2 oops scenario based problems
+- Solved 4 oops scenario based problems
   - EduMentor – Personalized Learning Platform
   - FitTrack – Your Personal Fitness Tracker
+  - PetPal – Virtual Pet Care App
+  - EventEase – Event Management Platform
 
 🔗 *Code Link:*  
 👉 [EduMentor](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalizedlearningplatform)
-
-[SwiftCart](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalfitnesstracker)
+[FitTrack](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/personalfitnesstracker)
+[PetPal](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/virtualpetcare)
+[EventEase](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/eventmanagementplatform)
 
 ---
