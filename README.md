@@ -290,3 +290,15 @@ BridgeLabz-Training/
 [Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
 
 ---
+
+### Day 8 – OOPS Scenario Based Problem Solving
+**Date:** 08 Jan 2026
+
+> OOPS Scenario Based Problem Solving
+ - MediStore – Pharmacy Inventory & Sales System
+ - TourMate – Travel Itinerary Planner
+ - 
+[MediStore](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/pharmacyinventorandsalesystem)
+[TourMate](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/travelitineraryplanner)
+
+---
