@@ -363,3 +363,20 @@ BridgeLabz-Training/
 
 [GameBox]()
 
+---
+
+### Day 3 – DSA Scenario Based Problem Solving
+**Date:** 13 Jan 2026
+
+> DSA Scenario Based Problem Solving
+ - SmartCheckout – Supermarket Billing Queue
+ - ParcelTracker – Delivery Chain Management 
+ - ExamProctor – Online Exam Review System
+
+[SmartCheckout](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/SmartCheckout.java)
+
+[ParcelTracker]()
+
+[ExamProctor]()
+
+---
