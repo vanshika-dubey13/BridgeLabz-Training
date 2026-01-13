@@ -212,7 +212,7 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [MediStore](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/pharmacyinventorandsalesystem) 
-    [TourMate](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/travelitineraryplanner)
+[TourMate](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/travelitineraryplanner)
 
 ---
 
@@ -224,8 +224,28 @@ BridgeLabz-Training/
  - FoodLoop – Restaurant Ordering System
  - SkillForge – Online Learning Portal
 
+🔗 *Code Link:*  
 [Artify](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/digitalartmarketplace)
 [FoodLoop](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/restaurantorderingsystem)
 [SkillForage](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/onlinelearningplatform)
+
+---
+
+### 📅 Week 3: OOPS- Scenario Based Problem Solving
+
+### Day 1 – OOPS Scenario Based Problem Solving
+**Date:** 12 Jan 2026
+
+- Java OOPS Scenario Based Problem Solving
+ - HomeNest – Smart Home Device Manager
+ - BudgetWise – Personal Finance Tracker
+ - GameBox – Mobile Game Distribution Platform
+
+🔗 *Code Link:*  
+[HomeNest](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/homenest)
+
+[BudgetWise](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/BudgetWise)
+
+[GameBox]()
 
 ---
