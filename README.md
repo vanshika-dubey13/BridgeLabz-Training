@@ -316,3 +316,21 @@ BridgeLabz-Training/
 [SkillForage](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/onlinelearningplatform)
 
 ---
+
+## Week 4 – Data Structure and Algorithms Scenario Based Problem Solving
+
+### Day 1 – DSA Scenario Based Problem Solving
+**Date:** 10 Jan 2026
+
+> DSA Scenario Based Problem Solving
+ - BookShelf – Library Organizer
+ - BrowserBuddy - Tab History Manager
+ - AmbulanceRoute – Emergency Patient Navigation
+
+[BookShelf](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BookShelfLibrary.java)
+
+[BrowserBuddy](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BrowserBuddy.java)
+
+[AmbulanceRoute](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/AmbulanceRoute.java)
+
+---
