@@ -334,3 +334,32 @@ BridgeLabz-Training/
 [AmbulanceRoute](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/AmbulanceRoute.java)
 
 ---
+
+### Day 2 – DSA & OOPS Scenario Based Problem Solving
+**Date:** 11 Jan 2026
+
+> DSA Scenario Based Problem Solving
+ - CallCenter – Customer Queue Manager
+ - TrainCompanion – Compartment Navigation System
+ - TextEditor – Undo/Redo Functionality
+ - TrafficManager – Roundabout Vehicle Flow
+
+[CallCenter](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/CallCenter.java)
+
+[TrainCompanion](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TrainCompanion.java)
+
+[TextEditor](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TextEditor.java)
+
+[TrafficManager](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TrafficManager.java)
+
+> Java OOPS Scenario Based Problem Solving
+ - HomeNest – Smart Home Device Manager
+ - BudgetWise – Personal Finance Tracker
+ - GameBox – Mobile Game Distribution Platform
+
+[HomeNest](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/homenest)
+
+[BudgetWise](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/BudgetWise)
+
+[GameBox]()
+
