@@ -215,3 +215,17 @@ BridgeLabz-Training/
     [TourMate](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/travelitineraryplanner)
 
 ---
+
+### Day 5 – OOPS Scenario Based Problem Solving
+**Date:** 09 Jan 2026
+
+> OOPS Scenario Based Problem Solving
+ - Artify – Digital Art Marketplace
+ - FoodLoop – Restaurant Ordering System
+ - SkillForge – Online Learning Portal
+
+[Artify](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/digitalartmarketplace)
+[FoodLoop](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/restaurantorderingsystem)
+[SkillForage](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/onlinelearningplatform)
+
+---
