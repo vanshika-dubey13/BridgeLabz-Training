@@ -66,3 +66,20 @@
 **Code:** [RunTime Analysis](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/runtimeanalysis)
           
 ---
+
+### Day 6 – DSA Scenario Based Problem Solving
+**Date:** 10 Jan 2026
+
+> Studied Runtime Analysis
+> - BookShelf – Library Organizer 
+> - BrowserBuddy – Tab History Manager 
+> - AmbulanceRoute – Emergency Patient Navigation 
+> - Best, Worst, and Average Case Complexities
+
+**Code:** 
+
+[BookShelf](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BookShelfLibrary.java)
+[BrowserBuddy](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BrowserBuddy.java)
+[AmbulanceRoute](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/AmbulanceRoute.java)
+          
+---
