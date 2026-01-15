@@ -206,7 +206,7 @@ BridgeLabz-Training/
 ## 🗓 Day 4 – OOPS- Scenario Based Problem Solving
 *(Date: 08 -Jan-2025)*
 
-- Solved 3 oops scenario based problems
+- Solved 2 oops scenario based problems
   - MediStore – Pharmacy Inventory & Sales System
   - TourMate – Travel Itinerary Planner
 
@@ -219,7 +219,7 @@ BridgeLabz-Training/
 ### Day 5 – OOPS Scenario Based Problem Solving
 **Date:** 09 Jan 2026
 
-> OOPS Scenario Based Problem Solving
+- Solved 3 oops scenario based problems
  - Artify – Digital Art Marketplace
  - FoodLoop – Restaurant Ordering System
  - SkillForge – Online Learning Portal
@@ -236,16 +236,27 @@ BridgeLabz-Training/
 ### Day 1 – OOPS Scenario Based Problem Solving
 **Date:** 12 Jan 2026
 
-- Java OOPS Scenario Based Problem Solving
- - HomeNest – Smart Home Device Manager
- - BudgetWise – Personal Finance Tracker
- - GameBox – Mobile Game Distribution Platform
+- Solved 3 oops scenario based problems
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
 
 🔗 *Code Link:*  
 [HomeNest](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/homenest)
-
 [BudgetWise](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/BudgetWise)
+[GameBox](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/GameBox)
 
-[GameBox]()
+---
+
+### Day 2 – OOPS Scenario Based Problem Solving
+**Date:** 13 Jan 2026
+
+- Solved 2 oops scenario based problems
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary 
+
+🔗 *Code Link:*  
+[PayXpress](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/PayXpress)
+[Bird Sanctuary]()
 
 ---
