@@ -49,7 +49,6 @@
 **Code:** [Searching](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/searching)
           [StringBuilder](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stringbuilder)
           [StringBuffer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stringbuffer)
-          [InputStreamReader]()
           [FileReader](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/filereader)
 
 ---
@@ -90,11 +89,29 @@
 > - CallCenter – Customer Queue Manager
 > - TrainCompanion – Compartment Navigation System
 > - TextEditor – Undo/Redo Functionality
+> - TrafficManager – Roundabout Vehicle Flow
 
 **Code:** 
 
 [CallCenter](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/CallCenter.java)
 [TrainCompanion](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TrainCompanion.java)
 [TextEditor](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TextEditor.java)
+[TrafficManager](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TrafficManager.java)
+          
+---
+
+### Day 8 – DSA Scenario Based Problem Solving
+**Date:** 13 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - SmartCheckout – Supermarket Billing Queue
+> - ParcelTracker – Delivery Chain Management
+> - ExamProctor – Online Exam Review System
+
+**Code:** 
+
+[SmartCheckout](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/SmartCheckout.java)
+[ParcelTracker](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/ParcelTracker.java)
+[ExamProctor](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/ExamProctor.java)
           
 ---
