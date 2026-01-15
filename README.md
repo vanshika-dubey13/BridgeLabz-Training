@@ -53,3 +53,16 @@
           [FileReader](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/filereader)
 
 ---
+
+### Day 5 – Algorithm's Runtime Analysis & Big-O Notation
+**Date:** 07 Jan 2026
+
+> Studied Runtime Analysis
+> - Big-O Notation
+> - Time Complexity Analysis
+> - Space Complexity Analysis
+> - Best, Worst, and Average Case Complexities
+
+**Code:** [RunTime Analysis](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/runtimeanalysis)
+          
+---
