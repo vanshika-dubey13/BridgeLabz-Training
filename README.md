@@ -70,16 +70,31 @@
 ### Day 6 – DSA Scenario Based Problem Solving
 **Date:** 10 Jan 2026
 
-> Studied Runtime Analysis
+> Solved real world scenario-based problems using DSA
 > - BookShelf – Library Organizer 
 > - BrowserBuddy – Tab History Manager 
 > - AmbulanceRoute – Emergency Patient Navigation 
-> - Best, Worst, and Average Case Complexities
 
 **Code:** 
 
 [BookShelf](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BookShelfLibrary.java)
 [BrowserBuddy](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BrowserBuddy.java)
 [AmbulanceRoute](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/AmbulanceRoute.java)
+          
+---
+
+### Day 7 – DSA Scenario Based Problem Solving
+**Date:** 12 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - CallCenter – Customer Queue Manager
+> - TrainCompanion – Compartment Navigation System
+> - TextEditor – Undo/Redo Functionality
+
+**Code:** 
+
+[CallCenter](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/CallCenter.java)
+[TrainCompanion](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TrainCompanion.java)
+[TextEditor](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/TextEditor.java)
           
 ---
