@@ -260,3 +260,16 @@ BridgeLabz-Training/
 [Bird Sanctuary]()
 
 ---
+
+### Day 3 – OOPS Scenario Based Problem Solving
+**Date:** 17 Jan 2026
+
+- Solved 2 oops scenario based problems
+  - GeoMeasure
+  - Bag-n-Ball Organizer
+
+🔗 *Code Link:*  
+[GeoMeasure](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/PayXpress)
+[Bag-n-Ball Organizer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/bagnballorganizer)
+
+---
