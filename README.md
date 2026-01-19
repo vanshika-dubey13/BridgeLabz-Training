@@ -336,7 +336,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 2 – DSA & OOPS Scenario Based Problem Solving
-**Date:** 11 Jan 2026
+**Date:** 12 Jan 2026
 
 > DSA Scenario Based Problem Solving
  - CallCenter – Customer Queue Manager
@@ -361,11 +361,11 @@ BridgeLabz-Training/
 
 [BudgetWise](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/BudgetWise)
 
-[GameBox]()
+[GameBox](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/GameBox)
 
 ---
 
-### Day 3 – DSA Scenario Based Problem Solving
+### Day 3 – DSA & OOPS Scenario Based Problem Solving
 **Date:** 13 Jan 2026
 
 > DSA Scenario Based Problem Solving
@@ -375,8 +375,18 @@ BridgeLabz-Training/
 
 [SmartCheckout](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/SmartCheckout.java)
 
-[ParcelTracker]()
+[ParcelTracker](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/ParcelTracker.java)
 
-[ExamProctor]()
+[ExamProctor](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/ExamProctor.java)
+
+> OOPS Scenario Based Problem Solving
+ - PayXpress – Utility Bill Payment System
+ - Bird Sanctuary 
+
+[PayXpress](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/PayXpress)
+
+[Bird Sanctuary](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/birdsanctuary)
+
+> Studied Tree
 
 ---
