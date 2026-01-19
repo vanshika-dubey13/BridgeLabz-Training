@@ -107,11 +107,34 @@
 > - SmartCheckout – Supermarket Billing Queue
 > - ParcelTracker – Delivery Chain Management
 > - ExamProctor – Online Exam Review System
+> Studied Tree
 
 **Code:** 
 
 [SmartCheckout](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/SmartCheckout.java)
 [ParcelTracker](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/ParcelTracker.java)
 [ExamProctor](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/ExamProctor.java)
+          
+---
+
+### Day 9 – Sorting Scenario Based Problem Solving
+**Date:** 15 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - HospitalQueue – Patient Sorting by Criticality
+> - SmartShelf – Real-Time Book Arrangement 
+> - ZipZipMart – Daily Sales Summary Report
+> - EventManager – Ticket Price Optimizer
+> - ExamCell – Student Rank Generator
+
+> Studied Graph
+
+**Code:** 
+
+[HospitalQueue](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/HospitalQueue.java)
+[SmartShelf](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/SmartShelf.java)
+[ZipZipMart](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/ZipZipMart.java)
+[EventManager](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/EventManager.java)
+[ExamCell](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/ExamCell.java)
           
 ---
