@@ -390,3 +390,17 @@ BridgeLabz-Training/
 > Studied Tree
 
 ---
+
+### Day 4 – DSA Scenario Based Problem Solving
+**Date:** 15 Jan 2026
+
+> Sorting Scenario Based Problem Solving
+ - HospitalQueue – Patient Sorting by Criticality
+ - SmartShelf – Real-Time Book Arrangement 
+ - ZipZipMart – Daily Sales Summary Report
+ - EventManager – Ticket Price Optimizer
+ - ExamCell – Student Rank Generator 
+
+[Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting)
+
+--- 
