@@ -404,3 +404,24 @@ BridgeLabz-Training/
 [Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting)
 
 --- 
+
+## Week 4: Collections
+
+### Day 1 – Collections, Sorting Scenario Based Problems
+**Date:** 16-Jan-2025
+
+> Overview of Collections Framework
+> - Hierarchy of Collections Framework
+> - List Interface and Implementing Classes
+> - Set Interface and Implementing Classes
+
+[Collections]()
+
+> Solved Sorting Scenario Based Problems
+  > - RoboWarehouse – Shelf Loading Robot
+  > - CinemaHouse – Movie Time Sorting
+  > - CropMonitor – Sensor Data Ordering
+  > - ArtExpo – Sort Artists by Registration Time
+  > -  FleetManager – Vehicle Maintenance Scheduler
+
+[Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting)
