@@ -138,3 +138,31 @@
 [ExamCell](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/ExamCell.java)
           
 ---
+
+### Day 10 – Collections, Sorting Scenario Based Problem Solving
+**Date:** 16 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - RoboWarehouse – Shelf Loading Robot
+> - CinemaHouse – Movie Time Sorting 
+> - CropMonitor – Sensor Data Ordering
+
+> Studied Collections
+ > - Overview of Collections Framework
+ > - Hierarchy of Collections Framework
+ > - List Interface and Implementing Classes
+ > - Set Interface and Implementing Classes
+ > - Queue and Deque Interfaces
+ > - Map Interface and Its Implementations
+
+
+**Code:** 
+
+[RoboWarehouse](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/RoboWarehouse.java)
+[CinemaHouse](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/CinemaHouse.java)
+[CropMonitor]()
+
+[Collections](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
+
+          
+---
