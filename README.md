@@ -317,9 +317,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 4 – Data Structure and Algorithms Scenario Based Problem Solving
-
-### Day 1 – DSA Scenario Based Problem Solving
+### Day 10 – DSA Scenario Based Problem Solving
 **Date:** 10 Jan 2026
 
 > DSA Scenario Based Problem Solving
@@ -335,7 +333,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 2 – DSA & OOPS Scenario Based Problem Solving
+### Day 11 – DSA & OOPS Scenario Based Problem Solving
 **Date:** 12 Jan 2026
 
 > DSA Scenario Based Problem Solving
@@ -365,7 +363,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 3 – DSA & OOPS Scenario Based Problem Solving
+### Day 12 – DSA & OOPS Scenario Based Problem Solving
 **Date:** 13 Jan 2026
 
 > DSA Scenario Based Problem Solving
@@ -391,7 +389,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 4 – DSA Scenario Based Problem Solving
+### Day 13 – DSA Scenario Based Problem Solving
 **Date:** 15 Jan 2026
 
 > Sorting Scenario Based Problem Solving
