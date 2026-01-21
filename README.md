@@ -147,7 +147,6 @@
 > - CinemaHouse – Movie Time Sorting 
 > - CropMonitor – Sensor Data Ordering
 
-
 **Code:** 
 
 [RoboWarehouse](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/RoboWarehouse.java)
@@ -188,5 +187,21 @@
 [EduResults](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/EduResults.java)
 [FlashDealz](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FlashDealz.java)
 [FitnessTracker](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FitnessTracker.java)
+          
+---
+
+### Day 13 – Sorting Scenario Based Problem Solving
+**Date:** 20 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - MovieTime – Theater Show Listings
+> - FoodFest – Sorting Stalls by Customer Footfall
+> - GamerZone – High Score Ranking System
+
+**Code:** 
+
+[MovieTime](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/MovieTime.java)
+[FoodFest](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FoodFest.java)
+[GamerZone](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/GamerZone.java)
           
 ---
