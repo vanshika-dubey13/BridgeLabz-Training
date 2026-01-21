@@ -147,14 +147,6 @@
 > - CinemaHouse – Movie Time Sorting 
 > - CropMonitor – Sensor Data Ordering
 
-> Studied Collections
- > - Overview of Collections Framework
- > - Hierarchy of Collections Framework
- > - List Interface and Implementing Classes
- > - Set Interface and Implementing Classes
- > - Queue and Deque Interfaces
- > - Map Interface and Its Implementations
-
 
 **Code:** 
 
@@ -162,11 +154,9 @@
 [CinemaHouse](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/CinemaHouse.java)
 [CropMonitor]()
 
-[Collections](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
-
 ---
 
-### Day 11 – Sorting & OOPS Scenario Based Problem Solving
+### Day 11 – Sorting Scenario Based Problem Solving
 **Date:** 17 Jan 2026
 
 > Solved real world scenario-based problems using DSA
@@ -175,11 +165,6 @@
 > - IceCreamRush – Sorting Flavors by Popularity
 > - SmartLibrary – Auto-Sort Borrowed Books
 
-> Solved real world scenario-based problems using OOPS
-> - GeoMeasure
-> - Bag-n-Ball Organizer
-
-
 **Code:** 
 
 [ArtExpo](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/ArtExpo.java)
@@ -187,8 +172,21 @@
 [IceCreamRush]()
 [SmartLibrary](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BookShelfLibrary.java)
 
-[GeoMeasure](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/geomeasure)
-[Bag-n-Ball Organizer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/bagnballorganizer)
+---
 
+### Day 12 – Sorting Scenario Based Problem Solving
+**Date:** 19 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - EduResults – Rank Sheet Generator 
+> - FlashDealz – Product Sorting by Discount
+> - FitnessTracker – Daily Step Count Ranking
+
+
+**Code:** 
+
+[EduResults](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/EduResults.java)
+[FlashDealz](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FlashDealz.java)
+[FitnessTracker](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FitnessTracker.java)
           
 ---
