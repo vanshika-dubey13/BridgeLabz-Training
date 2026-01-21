@@ -1,6 +1,6 @@
-### 📅 Week 2: Object Oriented Programming Fundamentals
+### 📅 Week 3: Object Oriented Programming Fundamentals
 
-## 🗓 Day 5 – Set-up java-oops-practice, basics of Class & Object  
+## 🗓 Day 1 – Set-up java-oops-practice, basics of Class & Object  
 *(Date: 26-Dec-2025)*
 
 - Created a new branch java-oops-practice
@@ -31,11 +31,11 @@ BridgeLabz-Training/
 - Pushed files in the respective folder set-up
 
 🔗 *Code Link:*  
-👉 [Day 5 – Class And Object](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+👉 [Day 1 – Class And Object](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 ---
 
-## 🗓 Day 6 – Constructors, Instance & Class Variables, Access Modifiers   
+## 🗓 Day 2 – Constructors, Instance & Class Variables, Access Modifiers   
 *(Date: 27-Dec-2025)*
 
 - Studied different types of Constructors 
@@ -51,13 +51,11 @@ BridgeLabz-Training/
 - Understood the uasage of static keyword
 
 🔗 *Code Link:*  
-👉 [Day 6 – Constructor and Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)
+👉 [Day 2 – Constructor and Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)
 
 ---
 
-### 📅 Week 3: Eclipse Introduction & Object Oriented Programming
-
-## 🗓 Day 1 – Set-up Eclipse, Oops Keywords 
+## 🗓 Day 3 – Set-up Eclipse, Oops Keywords 
 *(Date: 29-Dec-2025)*
 
 - Installed & configured Eclipse Editor
@@ -73,11 +71,11 @@ BridgeLabz-Training/
 - Solved practice problems based on static
 
 🔗 *Code Link:*  
-👉 [Day 1 – Object Oriented Programming Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)
+👉 [Day 3 – Object Oriented Programming Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)
 
 ---
 
-## 🗓 Day 2 – Object Modeling, Class Diagram
+## 🗓 Day 4 – Object Modeling, Class Diagram
 *(Date: 29-Dec-2025)*
 
 - Classes vs. Objects in Java
@@ -91,11 +89,11 @@ BridgeLabz-Training/
   - Communication  between objects
 
 🔗 *Code Link:*  
-👉 [Day 2 – Object Modeling, Class Diagram](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectorienteddesign)
+👉 [Day 4 – Object Modeling, Class Diagram](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectorienteddesign)
 
 ---
 
-## 🗓 Day 3 – Inheritance & Access Modifiers
+## 🗓 Day 5 – Inheritance & Access Modifiers
 *(Date: 31-Dec-2025)*
 
 - Inheritance
@@ -108,11 +106,11 @@ BridgeLabz-Training/
   - Access Modifiers and Inheritance
  
 🔗 *Code Link:*  
-👉 [Day 3 – Inheritance & Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+👉 [Day 5 – Inheritance & Access Modifiers](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
 ---
 
-## 🗓 Day 4 – Encapsulation, Interface, Abstract Classes, and Polymorphism
+## 🗓 Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism
 *(Date: 01-Jan-2026)*
 
 - Studied the concepts of Encapsulation
@@ -121,11 +119,11 @@ BridgeLabz-Training/
 - Studied Polymorphism
 
 🔗 *Code Link:*  
-👉 [Day 3 – Encapsulation, Interface, Abstract Classes, and Polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+👉 [Day 6– Encapsulation, Interface, Abstract Classes, and Polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
 ---
 
-## 🗓 Day 5 – OOPS Scenario-Based Problem Solving
+## 🗓 Day 7 – OOPS Scenario-Based Problem Solving
 *(Date: 02-Jan-2026)*
 
 - Solved 5 oops scenario based problems
@@ -144,7 +142,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 6 – OOPS Scenario-Based Problem Solving
+## 🗓 Day 8 – OOPS Scenario-Based Problem Solving
 *(Date: 03-Jan-2026)*
 
 - Solved 2 oops scenario based problems
@@ -157,9 +155,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Week 3: OOPS- Scenario Based Problem Solving
-
-## 🗓 Day 1 – OOPS- Scenario Based Problem Solving
+## 🗓 Day 9 – OOPS- Scenario Based Problem Solving
 *(Date: 05-Dec-2025)*
 
 - Solved 2 oops scenario based problems
@@ -172,7 +168,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 2 – OOPS- Scenario Based Problem Solving
+## 🗓 Day 10 – OOPS- Scenario Based Problem Solving
 *(Date: 06-Jan-2025)*
 
 - Solved 4 oops scenario based problems
@@ -188,7 +184,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 3 – OOPS- Scenario Based Problem Solving
+## 🗓 Day 11 – OOPS- Scenario Based Problem Solving
 *(Date: 07 -Dec-2025)*
 
 - Solved 3 oops scenario based problems
@@ -203,7 +199,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 4 – OOPS- Scenario Based Problem Solving
+## 🗓 Day 12 – OOPS- Scenario Based Problem Solving
 *(Date: 08 -Jan-2025)*
 
 - Solved 2 oops scenario based problems
@@ -216,7 +212,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 5 – OOPS Scenario Based Problem Solving
+### Day 13 – OOPS Scenario Based Problem Solving
 **Date:** 09 Jan 2026
 
 - Solved 3 oops scenario based problems
@@ -231,9 +227,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Week 3: OOPS- Scenario Based Problem Solving
-
-### Day 1 – OOPS Scenario Based Problem Solving
+### Day 14 – OOPS Scenario Based Problem Solving
 **Date:** 12 Jan 2026
 
 - Solved 3 oops scenario based problems
@@ -248,7 +242,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 2 – OOPS Scenario Based Problem Solving
+### Day 15 – OOPS Scenario Based Problem Solving
 **Date:** 13 Jan 2026
 
 - Solved 2 oops scenario based problems
@@ -261,7 +255,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 3 – OOPS Scenario Based Problem Solving
+### Day 16 – OOPS Scenario Based Problem Solving
 **Date:** 17 Jan 2026
 
 - Solved 2 oops scenario based problems
@@ -271,5 +265,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [GeoMeasure](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/PayXpress)
 [Bag-n-Ball Organizer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/bagnballorganizer)
+
+---
+
+### Day 17 – OOPS Scenario Based Problem Solving
+**Date:** 19 Jan 2026
+
+- Solved 1 oops scenario based problems
+  - Address Book System
+
+🔗 *Code Link:*  
+[Address Book System]()
 
 ---
