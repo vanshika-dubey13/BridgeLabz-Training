@@ -164,5 +164,31 @@
 
 [Collections](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
 
+---
+
+### Day 11 – Sorting & OOPS Scenario Based Problem Solving
+**Date:** 17 Jan 2026
+
+> Solved real world scenario-based problems using DSA
+> - ArtExpo – Sort Artists by Registration Time
+> - FleetManager – Vehicle Maintenance Scheduler
+> - IceCreamRush – Sorting Flavors by Popularity
+> - SmartLibrary – Auto-Sort Borrowed Books
+
+> Solved real world scenario-based problems using OOPS
+> - GeoMeasure
+> - Bag-n-Ball Organizer
+
+
+**Code:** 
+
+[ArtExpo](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/ArtExpo.java)
+[FleetManager](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FleetManager.java)
+[IceCreamRush]()
+[SmartLibrary](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/BookShelfLibrary.java)
+
+[GeoMeasure](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/geomeasure)
+[Bag-n-Ball Organizer](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/bagnballorganizer)
+
           
 ---
