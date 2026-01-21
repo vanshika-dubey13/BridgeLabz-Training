@@ -421,7 +421,22 @@ BridgeLabz-Training/
   > - RoboWarehouse – Shelf Loading Robot
   > - CinemaHouse – Movie Time Sorting
   > - CropMonitor – Sensor Data Ordering
-  > - ArtExpo – Sort Artists by Registration Time
-  > -  FleetManager – Vehicle Maintenance Scheduler
 
 [Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting)
+
+---
+
+### Day 2 – OOPS, Sorting Scenario Based Problems
+**Date:** 17-Jan-2025
+
+> Solved Sorting Scenario Based Problems
+  > - ArtExpo – Sort Artists by Registration Time
+  > -  FleetManager – Vehicle Maintenance Scheduler
+  > - IceCreamRush – Sorting Flavors by Popularity
+  > - SmartLibrary – Auto-Sort Borrowed Books
+[Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting)
+ 
+>  Solved OOPS Scenario Based Problems
+  > - GeoMeasure
+  > - Bag-n-Ball Organizer
+[OOPS Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
