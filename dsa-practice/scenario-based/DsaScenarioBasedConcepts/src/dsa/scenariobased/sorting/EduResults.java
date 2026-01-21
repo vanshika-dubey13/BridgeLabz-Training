@@ -4,6 +4,7 @@ public class EduResults {
 
     //class Student to hold attributes and constructor
     static class Student {
+    	
     	//attributes
         int rollNo;
         String name;
@@ -16,6 +17,7 @@ public class EduResults {
             this.score = score;
         }
 
+        //overriding tostring method
         @Override
         public String toString() {
             return rollNo + " | " + name + " | " + score;
@@ -64,7 +66,6 @@ public class EduResults {
     // Main Method
     public static void main(String[] args) {
 
-        // District-wise sorted data combined
         Student[] students = {
             new Student(201, "Amit", 88),
             new Student(202, "Riya", 92),
