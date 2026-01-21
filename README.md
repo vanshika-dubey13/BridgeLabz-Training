@@ -461,3 +461,22 @@ BridgeLabz-Training/
 > Studied and implemented problems based on Streams
 
 ---
+
+### Day 4 – DSA Scenario Based Problems & Java Streams
+**Date:** 20-Jan-2025
+
+> Solved Sorting Scenario Based Problems
+  > - MovieTime – Theater Show Listings
+  > - FoodFest – Sorting Stalls by Customer 
+  > - GamerZone – High Score Ranking System
+
+[DSA Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased)
+
+> Studied and implemented problems based on Exception Handling
+  > - Types of Exceptions
+  > - Handling Exceptions
+  > - Creating Custom Exceptions
+
+[Exception Handling]()
+
+---
