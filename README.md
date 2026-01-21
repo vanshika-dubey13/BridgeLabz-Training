@@ -440,3 +440,24 @@ BridgeLabz-Training/
   > - GeoMeasure
   > - Bag-n-Ball Organizer
 [OOPS Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
+---
+
+### Day 3 – OOPS, DSA Scenario Based Problems & Java Streams
+**Date:** 19-Jan-2025
+
+> Solved DSA Scenario Based Problems
+  > - EduResults – Rank Sheet Generator
+  > - FlashDealz – Product Sorting by Discount 
+  > - FitnessTracker – Daily Step Count Ranking
+
+[DSA Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased)
+ 
+>  Solved OOPS Scenario Based Problems
+  > -Address Book System
+
+[OOPS Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+
+> Studied and implemented problems based on Streams
+
+---
