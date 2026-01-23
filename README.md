@@ -479,7 +479,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 5 – DSA Scenario Based Problems Regex & JUnit
+### Day 5 – DSA Scenario Based Problems, Regex & JUnit
 **Date:** 21-Jan-2025
 
 > Solved Sorting Scenario Based Problems
@@ -488,7 +488,7 @@ BridgeLabz-Training/
 
 [Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased)
 
-> Solved BST Scenario Based Problems on BST
+> Solved DSA Scenario Based Problems on BST
   > - University's Digital Record System
   > -  E-Commerce Product Inventory
   > -  Music App - Organize Songs by Track ID
@@ -502,5 +502,28 @@ BridgeLabz-Training/
   > - Structure of a Test Class
 
 [Regex]()
+
+---
+
+### Day 6 – DSA Scenario Based Problems, Annotations & Reflection
+**Date:** 22-Jan-2025
+
+> Solved DSA Scenario Based Problems on AVL
+  > - Gaming App - Real-Time Leaderboard
+  > - Online Ticket Booking by Time
+  > - Hospital Queue Management
+
+[AVL Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/avl)
+
+> Studied and implemented problems based on Annotations
+  > - Common Built-in Annotations
+  > - Creating Custom Annotations
+  > - Advanced Custom Annotations
+
+> Reflection
+  > - Understanding of Reflection
+  > - Using Reflection in Java
+ 
+[Annotations]()
 
 ---
