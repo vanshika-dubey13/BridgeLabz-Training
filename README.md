@@ -478,3 +478,29 @@ BridgeLabz-Training/
 [Exception Handling]()
 
 ---
+
+### Day 5 – DSA Scenario Based Problems Regex & JUnit
+**Date:** 21-Jan-2025
+
+> Solved Sorting Scenario Based Problems
+  > - TailorShop – Sorting Orders by Delivery Deadline
+  > - MedWarehouse – Sorting Medicines by Expiry 
+
+[Sorting Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased)
+
+> Solved BST Scenario Based Problems on BST
+  > - University's Digital Record System
+  > -  E-Commerce Product Inventory
+  > -  Music App - Organize Songs by Track ID
+
+[BST Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/bst)
+
+> Studied and implemented problems based on Regex
+> Introduction to JUnit Framework
+  > - JUnit Annotations
+  > - Writing Test Cases
+  > - Structure of a Test Class
+
+[Regex]()
+
+---
