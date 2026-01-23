@@ -47,7 +47,7 @@ public class EcommerceInventory {
 
             switch (choice) {
 
-                // 🔹 Scenario 1: Lookup
+                //  Scenario 1: Lookup
             	// searching for customers using product sku
                 case 1:
                     System.out.print("Enter SKU to search: ");
@@ -60,7 +60,7 @@ public class EcommerceInventory {
                     }
                     break;
 
-                // 🔹 Scenario 2: Price Update
+                //  Scenario 2: Price Update
                 // updating products using sku key
                 case 2:
                     System.out.print("Enter SKU to update: ");
