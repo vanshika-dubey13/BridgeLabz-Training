@@ -202,6 +202,30 @@
 
 [MovieTime](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/MovieTime.java)
 [FoodFest](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/FoodFest.java)
+> -  
 [GamerZone](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/DsaScenarioBasedConcepts/src/dsa/scenariobased/sorting/GamerZone.java)
+          
+---
+
+### Day 14 – Exception
+**Date:** 21 Jan 2026
+
+> Studied and implemented problems on Exception
+> - Types of Exceptions
+> - Checked Exceptions
+> - Unchecked Exceptions
+
+> Handling Exceptions
+  > - try-catch blocks
+  > - try-catch blocks
+  > - try-catch-finally blocks
+  > - try-with-resources statement
+  > - throws clause
+  > - throw statement
+
+>  Creating Custom Exceptions
+**Code:** 
+
+[Exception]()
           
 ---
