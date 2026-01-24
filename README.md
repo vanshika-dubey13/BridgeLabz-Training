@@ -82,7 +82,7 @@
 
 ---
 
-### Day 4 – Annotations & Reflection
+### Day 5 – Annotations & Reflection
 **Date:** 22-Jan-2026
 
 > Studied and implemented questions on Annotations
@@ -101,7 +101,7 @@
 
 ---
 
-### Day 4 – Collections Scenario Based Problem Solving
+### Day 6 – Collections Scenario Based Problem Solving
 **Date:** 23-Jan-2026
 
 > Solved Real-world scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
@@ -120,7 +120,7 @@
 
 ---
 
-### Day 4 – Collections Scenario Based Problem Solving
+### Day 7 – Collections Scenario Based Problem Solving
 **Date:** 23-Jan-2026
 
 > Solved Real-world scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
