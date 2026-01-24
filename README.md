@@ -2,7 +2,7 @@
 ## Week 4: Java Collection Framework
 
 ### Day 1 – Introduction to Collections Framework
-**Date:** 16-Jan-2025
+**Date:** 16-Jan-2026
 
 > Overview of Collections Framework
 > - Hierarchy of Collections Framework
@@ -20,6 +20,7 @@
 **Date:** 19-Jan-2025
 
 > Studied & implemented problems on Java I/O Streams
+
 > Types of Streams
 > - File Streams
 > - Object Streams
@@ -28,6 +29,29 @@
 > - Reader & Writer
 
 **Code**
-[Java Streams]()
+[Java Streams](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections/streams)
+
+---
+
+### Day 3 – Exceptions
+**Date:** 20-Jan-2026
+
+> Studied & implemented problems on Exceptions
+
+> Types of Exceptions
+  > - Checked Exceptions
+  > - Unchecked Exceptions
+  > - Custom Exceptions
+
+> Handling Exceptions 
+  > - try - catch
+  > - try - actch -finally
+  > - try with resource
+  > - thow & throws keyword
+
+> Created Custom exceptions
+
+**Code**
+[Exceptions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections/exceptions)
 
 ---
