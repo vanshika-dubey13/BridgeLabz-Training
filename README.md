@@ -229,3 +229,27 @@
 [Exception]()
           
 ---
+
+### Day 15 – DSA Scenario Based Problem Solving
+**Date:** 21 Jan 2026
+
+> Solved DSA Scenario Based Problems on Sorting
+> - TailorShop – Sorting Orders by Delivery Deadline
+> - MedWarehouse – Sorting Medicines by Expiry
+
+**Code:** 
+[TailorShop]()
+[MedWarehouse]()
+
+> Solved DSA Scenario Based Problems on BST
+> - University's Digital Record System
+> - E-Commerce Product Inventory
+> - Music App - Organize Songs by Track ID
+
+**Code:** 
+[University's Digital Record System]()
+[E-Commerce Product Inventory]()
+[Music App]()
+
+    
+---
