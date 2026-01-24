@@ -253,3 +253,18 @@
 
     
 ---
+
+### Day 16 – DSA Scenario Based Problem Solving
+**Date:** 22 Jan 2026
+
+> Solved DSA Scenario Based Problems on AVL
+> - Gaming App - Real-Time Leaderboard
+> - Online Ticket Booking by Time
+> - Hospital Queue Management
+
+**Code:** 
+[Gaming Ap]()
+[Online Ticket Booking by Time]()
+[Hospital Queue Management]()
+    
+---
