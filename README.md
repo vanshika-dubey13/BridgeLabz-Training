@@ -55,3 +55,29 @@
 [Exceptions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections/exceptions)
 
 ---
+
+### Day 4 – Regex & JUnit
+**Date:** 21-Jan-2026
+
+> Studied & implemented problems on Regex
+
+> Common Patterns in Regex
+  > - Email Validation
+  > - Password Strength
+  > - Phone Number Format 
+
+> Learned about Regex Methods 
+  > - find()
+  > - matches()
+  > - replaceAll()
+
+> Introduction to JUnit Framework
+  > - JUnit Annotations
+  > - Writing Test Cases
+  > - Structure of a Test Class
+
+**Code**
+[Regex]()
+[JUnit]()
+
+---
