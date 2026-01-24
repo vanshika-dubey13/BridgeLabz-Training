@@ -100,3 +100,22 @@
 [Reflection]()
 
 ---
+
+### Day 4 – Collections Scenario Based Problem Solving
+**Date:** 23-Jan-2026
+
+> Solved Real-world scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
+  > - ResumeAnalyzer – Smart Resume Filtering System
+  > - TravelLog – Trip Organizer for Backpackers
+  > - FeedbackGuru – Smart Survey Analyzer
+  > - CodeRepoCleaner – Java File Scanner and Organizer
+  > - ExamScanner – Digital Answer Sheet Validator
+
+**Code**
+[ResumeAnalyzer](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/java-collection-practice/java-collection-practice/scenario-based/JavaCollectionsConcepts/src/src/com/collections/scenariobased/ResumeAnalyzer.java)
+[TravelLog]()
+[FeedbackGuru](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/java-collection-practice/java-collection-practice/scenario-based/JavaCollectionsConcepts/src/src/com/collections/scenariobased/FeedbackGuru.java)
+[CodeRepoCleaner](https://github.com/vanshika-dubey13/BridgeLabz-Training/blob/java-collection-practice/java-collection-practice/scenario-based/JavaCollectionsConcepts/src/src/com/collections/scenariobased/CodeRepoCleaner.java)
+[ExamScanner]()
+
+---
