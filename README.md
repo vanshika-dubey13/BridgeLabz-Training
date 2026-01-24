@@ -81,3 +81,22 @@
 [JUnit]()
 
 ---
+
+### Day 4 – Annotations & Reflection
+**Date:** 22-Jan-2026
+
+> Studied and implemented questions on Annotations
+  > - Common Built-in Annotations
+  > - Creating Custom Annotations
+  > - Advanced Custom Annotations
+  > - Annotation Processing Tools
+
+> Studied and implemented questions on Reflection
+  > - Using Reflection in Java
+  > - Annotations and Reflection
+
+**Code**
+[Annotations]()
+[Reflection]()
+
+---
