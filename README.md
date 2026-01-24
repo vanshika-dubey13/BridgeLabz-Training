@@ -119,3 +119,22 @@
 [ExamScanner]()
 
 ---
+
+### Day 4 – Collections Scenario Based Problem Solving
+**Date:** 23-Jan-2026
+
+> Solved Real-world scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
+  > - MedInventory – Smart Hospital Inventory Tracker
+  > - ChatLogParser – Messaging Pattern Analyzer
+  > - SongVault – Personal Music Library Manager
+  > - ExamResultUploader – Bulk Marks Processing
+  > - DealTracker – E-Commerce Discount Validator
+
+**Code**
+[MedInventory]()
+[ChatLogParser]()
+[SongVault]()
+[ExamResultUploader]()
+[DealTracker]()
+
+---
