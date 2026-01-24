@@ -529,7 +529,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 6 – Collections Scenario Based Problems & CSV Data Handling
-**Date:** 22-Jan-2025
+**Date:** 23-Jan-2025
 
 > Solved Real-world scenario-based problems involving Collections, Generics
   > - ResumeAnalyzer
@@ -547,5 +547,27 @@ BridgeLabz-Training/
 > - Parsing CSV Data
 
 [CSV Data Handling]()
+
+---
+
+### Day 7 – JSON Data & Collections Scenario Based Problems Solving
+**Date:** 24-Jan-2025
+
+> Solved Real-world scenario-based problems involving Collections, Generics
+  > - MedInventory – Smart Hospital Inventory Tracker
+  > - ChatLogParser – Messaging Pattern Analyzer
+  > - SongVault – Personal Music Library Manager
+  > - ExamResultUploader – Bulk Marks Processing
+  > - DealTracker – E-Commerce Discount Validator
+
+[Collections Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based/JavaCollectionsConcepts/src/src/com/collections/scenariobased)
+
+> Studied and implemented problems based on JSON Data
+> - Introduction to JSON
+> - Reading JSON Data
+> - Writing JSON Data
+> - Parsing JSON Data
+
+[JSON Data]()
 
 ---
