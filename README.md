@@ -527,3 +527,25 @@ BridgeLabz-Training/
 [Annotations]()
 
 ---
+
+### Day 6 – Collections Scenario Based Problems & CSV Data Handling
+**Date:** 22-Jan-2025
+
+> Solved Real-world scenario-based problems involving Collections, Generics
+  > - ResumeAnalyzer
+  > - TravelLog – Trip Organizer for Backpackers
+  > - FeedbackGuru – Smart Survey Analyzer
+  > - CodeRepoCleaner – Java File Scanner and Organizer
+  > -  ExamScanner – Digital Answer Sheet Validator 
+
+[Collections Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/scenario-based/JavaCollectionsConcepts/src/src/com/collections/scenariobased)
+
+> Studied and implemented problems based on CSV Data Handling
+> - Introduction to CSV
+> - Reading CSV Files
+> - Writing CSV Files
+> - Parsing CSV Data
+
+[CSV Data Handling]()
+
+---
