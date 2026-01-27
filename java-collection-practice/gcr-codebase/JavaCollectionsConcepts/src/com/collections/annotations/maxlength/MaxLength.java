@@ -1,0 +1,10 @@
+package com.collections.annotations.maxlength;
+
+import java.lang.annotation.*;
+
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.FIELD)
+public @interface MaxLength {
+    int value();
+}
+
