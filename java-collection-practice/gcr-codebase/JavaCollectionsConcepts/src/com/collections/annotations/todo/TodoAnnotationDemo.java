@@ -7,17 +7,14 @@ import java.lang.annotation.ElementType;
 import java.lang.reflect.Method;
 
 
-// retrivingand print all pending tasks using Reflection
+// retriving and printing all pending tasks using Reflection
 public class TodoAnnotationDemo {
 
     public static void main(String[] args) {
 
         Class<ProjectService> cls = ProjectService.class;
-
         for (Method method : cls.getDeclaredMethods()) {
-
             if (method.isAnnotationPresent(Todo.class)) {
-
                 Todo todo = method.getAnnotation(Todo.class);
 
                 System.out.println("Method: " + method.getName());
