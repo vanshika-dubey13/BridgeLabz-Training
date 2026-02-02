@@ -636,7 +636,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 3 – Optional Classes - Scenario Based Problems
-**Date:** 24-Jan-2026
+**Date:** 28-Jan-2026
 
 > Implemented 5 real world scenario based problems 
 > - Student Management System
