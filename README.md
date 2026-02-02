@@ -634,3 +634,21 @@ BridgeLabz-Training/
 [Collectors](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/collectors)
 
 ---
+
+### Day 3 – Optional Classes - Scenario Based Problems
+**Date:** 24-Jan-2025
+
+> Implemented 5 real world scenario based problems 
+> - Student Management System
+> - Employee / Office System
+> - Banking Application
+> - E-Commerce System
+> - System / Utility Use Cases
+
+[Student Management System]()
+[Employee Office System]()
+[Banking App]()
+[E-Commerce System]()
+[System Utility Use Cases]()
+
+---
