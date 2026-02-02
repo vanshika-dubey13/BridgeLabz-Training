@@ -10,3 +10,18 @@
 > - Data Validation
 
 [CSV File Handling](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/iostream/csv)
+
+---
+
+### Day 2 – JSON Data Handling
+**Date:** 24-Jan-2026
+
+> Solved problems based on JSON File handling
+> - Reading JSON Files
+> - Writing JSON Files
+> - Parsing JSON Data
+> - JSON Schema Validation
+
+[JSON File Handling]()
+
+---
