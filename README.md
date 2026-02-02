@@ -406,7 +406,7 @@ BridgeLabz-Training/
 ## Week 4: Collections
 
 ### Day 1 – Collections, Sorting Scenario Based Problems
-**Date:** 16-Jan-2025
+**Date:** 16-Jan-2026
 
 > Overview of Collections Framework
 > - Hierarchy of Collections Framework
@@ -425,7 +425,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 2 – OOPS, Sorting Scenario Based Problems
-**Date:** 17-Jan-2025
+**Date:** 17-Jan-2026
 
 > Solved Sorting Scenario Based Problems
   > - ArtExpo – Sort Artists by Registration Time
@@ -442,7 +442,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 3 – OOPS, DSA Scenario Based Problems & Java Streams
-**Date:** 19-Jan-2025
+**Date:** 19-Jan-2026
 
 > Solved DSA Scenario Based Problems
   > - EduResults – Rank Sheet Generator
@@ -461,7 +461,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 4 – DSA Scenario Based Problems & Java Streams
-**Date:** 20-Jan-2025
+**Date:** 20-Jan-2026
 
 > Solved Sorting Scenario Based Problems
   > - MovieTime – Theater Show Listings
@@ -480,7 +480,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 5 – DSA Scenario Based Problems, Regex & JUnit
-**Date:** 21-Jan-2025
+**Date:** 21-Jan-2026
 
 > Solved Sorting Scenario Based Problems
   > - TailorShop – Sorting Orders by Delivery Deadline
@@ -506,7 +506,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 6 – DSA Scenario Based Problems, Annotations & Reflection
-**Date:** 22-Jan-2025
+**Date:** 22-Jan-2026
 
 > Solved DSA Scenario Based Problems on AVL
   > - Gaming App - Real-Time Leaderboard
@@ -530,7 +530,7 @@ BridgeLabz-Training/
 ## Week 5 : Java IOStreams
 
 ### Day 1 – Collections Scenario Based Problems & CSV Data Handling
-**Date:** 23-Jan-2025
+**Date:** 23-Jan-2026
 
 > Solved Real-world scenario-based problems involving Collections, Generics
   > - ResumeAnalyzer
@@ -552,7 +552,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 2 – JSON Data & Collections Scenario Based Problems Solving
-**Date:** 24-Jan-2025
+**Date:** 24-Jan-2026
 
 > Solved Real-world scenario-based problems involving Collections, Generics
   > - MedInventory – Smart Hospital Inventory Tracker
@@ -574,7 +574,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 3 – JSON Data Handling Scenario - Based Problem Solving
-**Date:** 27-Jan-2025
+**Date:** 27-Jan-2026
 
 >  HealthCheckPro – API Metadata Validator (Annotations + Reflection)
 >  MarkMate – Student Marksheet Generator (CSV + JSON)
@@ -585,7 +585,7 @@ BridgeLabz-Training/
 ## Week 6 : Java 8 Programming Features
 
 ### Day 1 – Lambda Expressions & Functional Interface
-**Date:** 27-Jan-2025
+**Date:** 27-Jan-2026
 
 > Solved problems using
 > - Lambda Expressions
@@ -604,7 +604,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 2 – Java Stream API & Collectors
-**Date:** 28-Jan-2025
+**Date:** 28-Jan-2026
 
 > Implemented problems based on Java Stream API
 
@@ -636,7 +636,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 3 – Optional Classes - Scenario Based Problems
-**Date:** 24-Jan-2025
+**Date:** 24-Jan-2026
 
 > Implemented 5 real world scenario based problems 
 > - Student Management System
@@ -650,5 +650,32 @@ BridgeLabz-Training/
 [Banking App]()
 [E-Commerce System]()
 [System Utility Use Cases]()
+
+---
+
+## Week - 7 : Design Principles & Design Patterns
+
+### Day 1 – Design Principles & Design Patterns
+**Date:** 31-Jan-2026
+
+> Studied about different design principles
+> - Single Responsibility Principle (SRP)
+> - Open/Closed Principle (OCP)
+> - Liskov Substitution Principle (LSP)
+> - Interface Segregation Principle (ISP)
+> - Dependency Inversion Principle (DIP)
+> - Don't Repeat Yourself (DRY)
+> - Keep It Simple, Stupid (KISS)
+> - You Aren't Gonna Need It (YAGNI)
+
+> Introduction to GoF Design Pattern
+> Categories of Patterns (GoF classification)
+> - Singleton Pattern
+> - Factory Pattern
+> - Observer Pattern
+> - Builder Pattern
+> - UML Designing
+
+[Design Patterns]()
 
 ---
