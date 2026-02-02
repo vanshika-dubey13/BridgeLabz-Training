@@ -121,7 +121,7 @@
 ---
 
 ### Day 7 – Collections Scenario Based Problem Solving
-**Date:** 23-Jan-2026
+**Date:** 24-Jan-2026
 
 > Solved Real-world scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
   > - MedInventory – Smart Hospital Inventory Tracker
