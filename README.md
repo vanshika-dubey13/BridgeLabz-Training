@@ -527,8 +527,9 @@ BridgeLabz-Training/
 [Annotations]()
 
 ---
+## Week 5 : Java IOStreams
 
-### Day 6 – Collections Scenario Based Problems & CSV Data Handling
+### Day 1 – Collections Scenario Based Problems & CSV Data Handling
 **Date:** 23-Jan-2025
 
 > Solved Real-world scenario-based problems involving Collections, Generics
@@ -550,7 +551,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 7 – JSON Data & Collections Scenario Based Problems Solving
+### Day 2 – JSON Data & Collections Scenario Based Problems Solving
 **Date:** 24-Jan-2025
 
 > Solved Real-world scenario-based problems involving Collections, Generics
@@ -569,5 +570,14 @@ BridgeLabz-Training/
 > - Parsing JSON Data
 
 [JSON Data]()
+
+---
+
+### Day 3 – JSON Data Handling Scenario - Based Problem Solving
+**Date:** 27-Jan-2025
+
+>  HealthCheckPro – API Metadata Validator (Annotations + Reflection)
+>  MarkMate – Student Marksheet Generator (CSV + JSON)
+>  EventTracker – Auto Audit System (Annotations + Reflection + JSON)
 
 ---
