@@ -602,3 +602,35 @@ BridgeLabz-Training/
 [Interface Default Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/interfaces/defaultmethods)
 
 ---
+
+### Day 2 – Java Stream API & Collectors
+**Date:** 28-Jan-2025
+
+> Implemented problems based on Java Stream API
+
+> Studied & implemented intermediate operations
+> - filter()
+> - map()
+> - flatMap()
+> - distinct()
+> - sorted()
+> - peek()
+> - limit()
+> - skip()
+
+> Studied & implemented terminal operations
+> - collect
+> - forEach
+> - reduce
+> - count
+> - anyMatch
+> - allMatch
+> - noneMatch
+
+> Studied & implemented problems based on Collectors
+
+
+[Java Stream API](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/streamapi)
+[Collectors](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/collectors)
+
+---
