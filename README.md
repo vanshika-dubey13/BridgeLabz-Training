@@ -25,3 +25,15 @@
 [JSON File Handling]()
 
 ---
+
+### Day 3 – Scenario Based Problem Solving - CSV & JSON Data Handling
+**Date:** 27-Jan-2026
+
+> Solved scenario based problems based on JSON & CSV File handling
+> - EventTracker – Auto Audit System (Annotations + Reflection + JSON)
+> - MarkMate – Student Marksheet Generator (CSV + JSON)
+
+[EventTracker]()
+[MarkMate]()
+
+---
