@@ -1,34 +1,26 @@
-## Week 6 - Java 8 Programming Features
+## Week 7: Design Patterns & Multithreading
 
-### Day 1 – Lambda Expression
-**Date:** 27-Jan-2026
+### Day 1 – GoF Design Patterns (Library Management System)
+**Date:** 31-Jan-2026 (Focus: Scalable and loosely coupled application design using Design Patterns)
 
-> Solved problems using
-> - Lambda Expressions
-> - Method References
-> - Interfaces
-> - Functional Interfaces
-> - Static methods & default methods in interfaces
-[Lambda Expressions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/lambdaexpressions)
-[Method references](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/lambdaexpressions/methodreferences)
-[Interfaces](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/interfaces)
-[Functional Interface](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/functionalinterfaces)
-[Interface Static Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/interfaces/staticmethods)
-[Interface Default Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/interfaces/defaultmethods)
+> - Studied core GoF Design Patterns to design clean, maintainable, and reusable software systems.
 
----
+> - Implemented the Singleton Pattern to ensure only one instance of the Library Catalog exists across the entire application.
 
-### Day 2 – Stream API & Collectors
-**Date:** 28-Jan-2026
+> - Used the Factory Pattern to dynamically create different user types such as Student, Faculty, and Librarian without tight coupling.
 
-> Solved problems using
-> - Stream API
-> - forEach() method
-> - Collectors
+> - Applied the Observer Pattern so users automatically receive notifications when new books are added to the catalog.
 
-[Stream API](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/streamapi)
-[forEach() method](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/streamapi/foreachmethod)
-[Collectors](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8FeaturesConcepts/src/com/collectors)
+> - Practiced the Builder Pattern to construct Book objects with optional attributes like author, edition, and genre in a flexible way.
 
+> - Learned how multiple design patterns work together inside one real-world system.
 
----
+> -Focused on writing modular, extensible, and object-oriented code following best practices.
+
+> - Library Management System
+
+> - Applied these patterns to manage books, users, and notifications efficiently. Designed the system to simulate real-world library behavior with proper architecture and clean structure.
+
+Code Link:
+[Design Patterns](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarymanagement)
+
