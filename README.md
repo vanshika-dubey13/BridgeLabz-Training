@@ -24,3 +24,26 @@
 Code Link:
 [Design Patterns](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarymanagement)
 
+---
+
+### Day 2 –  Multithreading & Concurrency
+**Date:** 02-02-2026 (Focus: Thread creation, synchronization, lifecycle management, and scheduling)
+
+> - Studied Java multithreading concepts to execute multiple tasks simultaneously and improve performance.
+
+> - Learned thread creation using both Thread class and Runnable interface.
+
+> - 0ol.Practiced join() to make the main thread wait for child threads.
+
+> - Used sleep() to simulate real-time task execution.
+
+> - Implemented synchronization to prevent race conditions while accessing shared resources.
+
+> - Explored thread priorities and scheduling behavior.
+
+> - Understood thread lifecycle states such as NEW, RUNNABLE, TIMED_WAITING, and TERMINATED.
+
+[Multithreading]
+
+
+(https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
