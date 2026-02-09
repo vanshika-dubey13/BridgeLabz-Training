@@ -3,7 +3,7 @@
 **Day 34 – DBMS Fundamentals, Indexing & SQL Best Practices**
 **Date:** 06 Feb 2026
 
-```
+``` 
 BridgeLabz-Training/
 │
 ├── dbms-jdbc-practice/
