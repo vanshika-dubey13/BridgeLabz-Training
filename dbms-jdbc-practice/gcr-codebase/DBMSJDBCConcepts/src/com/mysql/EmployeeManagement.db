@@ -1,29 +1,62 @@
-mysql> CREATE DATABASE employee_db;
-Query OK, 1 row affected (0.01 sec)
+-- ============================================================
+-- Problem: Exercise 1 - Simple CRUD Application
+-- File: EmployeeManagement.db
+-- Table: employees
+-- Database: employee_db
+-- ============================================================
 
-mysql> USE employee_db;
-Database changed
+
 mysql>
-mysql> CREATE TABLE employees (
-    ->     id INT AUTO_INCREMENT PRIMARY KEY,
-    ->     name VARCHAR(100) NOT NULL,
-    ->     department VARCHAR(100),
-    ->     salary DECIMAL(10,2),
-    ->     hire_date DATE
-    -> );
-Query OK, 0 rows affected (0.01 sec)
-mysql> INSERT INTO employees (name, department, salary, hire_date)
-    -> VALUES ('John Doe', 'IT', 50000.00, '2024-01-15');
+CREATE DATABASE employee_db;
+
+/* 		OUTPUT
 Query OK, 1 row affected (0.01 sec)
+*/
+
+mysql>
+USE employee_db;
+
+/* 		OUTPUT
+Database changed
+*/
+
+mysql>
+CREATE TABLE employees (
+     id INT AUTO_INCREMENT PRIMARY KEY,
+     name VARCHAR(100) NOT NULL,
+     department VARCHAR(100),
+     salary DECIMAL(10,2),
+     hire_date DATE
+    	);
+    	
+/* 		OUTPUT
+Query OK, 0 rows affected (0.01 sec)
+*/
+
+mysql>
+INSERT INTO employees (name, department, salary, hire_date)
+    -> VALUES ('John Doe', 'IT', 50000.00, '2024-01-15');
+    
+/* 		OUTPUT
+Query OK, 1 row affected (0.01 sec)
+*/
+
 mysql> INSERT INTO employees (name, department, salary, hire_date) VALUES
-    -> ('Alice Smith', 'HR', 42000.00, '2023-06-10'),
-    -> ('Bob Johnson', 'Finance', 55000.00, '2022-11-25'),
-    -> ('Charlie Brown', 'IT', 65000.00, '2021-09-01'),
-    -> ('Diana Miller', 'Marketing', 48000.00, '2023-02-18'),
-    -> ('Ethan Wilson', 'Operations', 52000.00, '2020-07-05');
+    ('Alice Smith', 'HR', 42000.00, '2023-06-10'),
+    ('Bob Johnson', 'Finance', 55000.00, '2022-11-25'),
+    ('Charlie Brown', 'IT', 65000.00, '2021-09-01'),
+    ('Diana Miller', 'Marketing', 48000.00, '2023-02-18'),
+    ('Ethan Wilson', 'Operations', 52000.00, '2020-07-05');
+    
+/* 		OUTPUT
 Query OK, 5 rows affected (0.00 sec)
 Records: 5  Duplicates: 0  Warnings: 0
-mysql> SELECT * FROM employees;
+*/
+
+mysql>
+SELECT * FROM employees;
+
+/* 		OUTPUT
 +----+---------------+------------+----------+------------+
 | id | name          | department | salary   | hire_date  |
 +----+---------------+------------+----------+------------+
@@ -35,12 +68,22 @@ mysql> SELECT * FROM employees;
 |  6 | Ethan Wilson  | Operations | 52000.00 | 2020-07-05 |
 +----+---------------+------------+----------+------------+
 6 rows in set (0.01 sec)
-mysql> UPDATE employees
-    -> SET salary = 60000.00
-    -> WHERE id = 1;
+*/
+
+mysql>
+UPDATE employees
+    SET salary = 60000.00
+    WHERE id = 1;
+    
+/* 		OUTPUT
 Query OK, 1 row affected (0.01 sec)
 Rows matched: 1  Changed: 1  Warnings: 0
-mysql> SELECT * FROM employees;
+*/
+
+mysql>
+SELECT * FROM employees;
+
+/* 		OUTPUT
 +----+---------------+------------+----------+------------+
 | id | name          | department | salary   | hire_date  |
 +----+---------------+------------+----------+------------+
@@ -51,10 +94,20 @@ mysql> SELECT * FROM employees;
 |  5 | Diana Miller  | Marketing  | 48000.00 | 2023-02-18 |
 |  6 | Ethan Wilson  | Operations | 52000.00 | 2020-07-05 |
 +----+---------------+------------+----------+------------+
-mysql> DELETE FROM employees
-    -> WHERE name = 'John Doe';
+*/
+
+mysql>
+DELETE FROM employees
+    WHERE name = 'John Doe';
+    
+/* 		OUTPUT
 Query OK, 1 row affected (0.00 sec)
-mysql> SELECT * FROM employees;
+*/
+
+mysql>
+SELECT * FROM employees;
+
+/* 		OUTPUT
 +----+---------------+------------+----------+------------+
 | id | name          | department | salary   | hire_date  |
 +----+---------------+------------+----------+------------+
@@ -65,12 +118,45 @@ mysql> SELECT * FROM employees;
 |  6 | Ethan Wilson  | Operations | 52000.00 | 2020-07-05 |
 +----+---------------+------------+----------+------------+
 5 rows in set (0.00 sec)
-mysql> SELECT * FROM employees
-    -> WHERE name LIKE '%jo%';
+*/
+
+mysql>
+SELECT * FROM employees
+    WHERE name LIKE '%jo%';
+    
+/* 		OUTPUT
 +----+-------------+------------+----------+------------+
 | id | name        | department | salary   | hire_date  |
 +----+-------------+------------+----------+------------+
 |  3 | Bob Johnson | Finance    | 55000.00 | 2022-11-25 |
 +----+-------------+------------+----------+------------+
 1 row in set (0.00 sec)
+*/
 
+mysql>
+SELECT COUNT(*) AS total_employees FROM employees;
+
+/* 		OUTPUT
++-----------------+
+| total_employees |
++-----------------+
+|               5 |
++-----------------+
+1 row in set (0.01 sec)
+*/
+
+mysql>
+SELECT department, AVG(salary) AS avg_salary FROM employees GROUP BY department;
+
+/* 		OUTPUT
++------------+--------------+
+| department | avg_salary   |
++------------+--------------+
+| HR         | 42000.000000 |
+| Finance    | 55000.000000 |
+| IT         | 65000.000000 |
+| Marketing  | 48000.000000 |
+| Operations | 52000.000000 |
++------------+--------------+
+5 rows in set (0.00 sec)
+*/
