@@ -1,0 +1,188 @@
+-- ============================================================
+-- Problem: Patient Management
+-- File: patient_management.db
+-- Table: patients_data, doctors_data, patient_appointments, patient_visits
+-- Database: employee_db
+-- ============================================================
+
+-- mysql>
+USE employee_db;
+
+/* o/p
+Database changed
+*/
+
+CREATE TABLE patients_data ( 
+    patient_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    dob DATE NOT NULL,
+    phone VARCHAR(15) UNIQUE NOT NULL,
+    email VARCHAR(100) UNIQUE,
+    address VARCHAR(255),
+    blood_group VARCHAR(5)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+CREATE TABLE doctors_data (
+    doctor_id INT AUTO_INCREMENT PRIMARY KEY,
+    doctor_name VARCHAR(100) NOT NULL,
+    specialization VARCHAR(100)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+// UC-1.1: Register New Patient
+CREATE TABLE patient_appointments (
+    appointment_id INT AUTO_INCREMENT PRIMARY KEY,
+    patient_id INT,
+    doctor_id INT,
+    appointment_date DATE,
+    FOREIGN KEY (patient_id) REFERENCES patients(patient_id),
+    FOREIGN KEY (doctor_id) REFERENCES doctors(doctor_id)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.03 sec)
+*/
+
+CREATE TABLE patient_visits (
+    visit_id INT AUTO_INCREMENT PRIMARY KEY,
+    appointment_id INT,
+    diagnosis VARCHAR(255),
+    visit_date DATE,
+    FOREIGN KEY (appointment_id) REFERENCES appointments(appointment_id)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.03 sec)
+*/
+
+
+INSERT INTO doctors_data (doctor_name, specialization)
+VALUES
+('Dr. Smith', 'Cardiology'),
+('Dr. Adams', 'General Medicine');
+
+/* o/p
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+*/
+
+INSERT INTO patients_data (name, dob, phone, email, address, blood_group)
+VALUES
+('John Doe', '1990-05-15', '9876543210', 'john@gmail.com', 'New York', 'O+'),
+('Jane Roe', '1985-08-20', '9123456789', 'jane@gmail.com', 'California', 'A+');
+
+/* o/p
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+*/
+
+INSERT INTO patient_appointments (patient_id, doctor_id, appointment_date)
+VALUES
+(1, 1, '2025-02-01'),
+(1, 2, '2025-02-05'),
+(2, 2, '2025-02-03');
+
+/* o/p
+Query OK, 3 rows affected (0.01 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+*/
+
+mysql> INSERT INTO patient_visits (appointment_id, diagnosis, visit_date)
+    -> VALUES
+    -> (1, 'High Blood Pressure', '2025-02-01'),
+    -> (2, 'Fever', '2025-02-05');
+    
+/* o/p
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+*/
+
+// UC-1.2: Update Patient Information
+mysql> UPDATE patient_visits
+    -> SET diagnosis = 'Viral Fever'
+    -> WHERE visit_id = 8;
+    
+/* o/p
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+*/
+
+// UC-1.3: Search Patient Records
+mysql> SELECT * FROM patient_visits WHERE visit_id = 8;
+
+/* o/p
++----------+----------------+-------------+------------+
+| visit_id | appointment_id | diagnosis   | visit_date |
++----------+----------------+-------------+------------+
+|        8 |              2 | Viral Fever | 2025-02-05 |
++----------+----------------+-------------+------------+
+1 row in set (0.00 sec)
+*/
+
+mysql> SELECT * FROM patient_visits
+    -> WHERE appointment_id = 1;
+    
+/* o/p
++----------+----------------+---------------------+------------+
+| visit_id | appointment_id | diagnosis           | visit_date |
++----------+----------------+---------------------+------------+
+|        7 |              1 | High Blood Pressure | 2025-02-01 |
++----------+----------------+---------------------+------------+
+1 row in set (0.00 sec)
+*/
+
+mysql> SELECT * FROM patient_visits
+    -> WHERE diagnosis LIKE '%Fever%';
+ 
+/* o/p
++----------+----------------+-------------+------------+
+| visit_id | appointment_id | diagnosis   | visit_date |
++----------+----------------+-------------+------------+
+|        8 |              2 | Viral Fever | 2025-02-05 |
++----------+----------------+-------------+------------+
+1 row in set (0.00 sec)
+*/
+
+mysql> SELECT * FROM patient_visits
+    -> WHERE visit_date = '2025-02-05';
+    
+/* o/p
++----------+----------------+-------------+------------+
+| visit_id | appointment_id | diagnosis   | visit_date |
++----------+----------------+-------------+------------+
+|        8 |              2 | Viral Fever | 2025-02-05 |
++----------+----------------+-------------+------------+
+1 row in set (0.00 sec)
+*/
+
+// UC-1.4: View Patient Visit History
+mysql> SELECT
+    ->     p.patient_id,
+    ->     p.name AS patient_name,
+    ->     d.doctor_name,
+    ->     pv.diagnosis,
+    ->     pv.visit_date
+    -> FROM patient_visits pv
+    -> JOIN appointments a ON pv.appointment_id = a.appointment_id
+    -> JOIN patients p ON a.patient_id = p.patient_id
+    -> JOIN doctors d ON a.doctor_id = d.doctor_id
+    -> ORDER BY pv.visit_date DESC;
+    
+/* o/p
++------------+-----------------+---------------+---------------------+------------+
+| patient_id | patient_name    | doctor_name   | diagnosis           | visit_date |
++------------+-----------------+---------------+---------------------+------------+
+|          2 | Rukia Kuchiki   | Kento Nanami  | Viral Fever         | 2025-02-05 |
+|          1 | Ichigo Kurosaki | Shinobu Kocho | High Blood Pressure | 2025-02-01 |
++------------+-----------------
++---------------+---------------------+------------++---------------+--------------
+*/
+
+
