@@ -11,31 +11,108 @@ Object-Oriented Programming (OOP) : OOP principles, system design fundamentals, 
 
 The repository is continuously updated to reflect ongoing learning and skill development.
 
-```
+
 BridgeLabz-Training/
-|---- core-java-practice/
-|     |-----gcr-codebase/
-|     |     |----arrays/
-|     |     |----control-flows/
-|     |     |----Extras/
-|     |     |----methods/
-|     |     |----programming elements/
-|     |     |----program-prerequisite/
-|     |     |----Strings/
-|     |-----leet-code-codebase/
-|     |-----scenario-based-codebase/
-|-----README.md/
-|---- java-oops-practice/
-|     |-----gcr-codebase/
-|     |-----leet-code-codebase/
-|     |-----scenario-based-codebase/
-|-----README.md/
-|---- dsa-practice/
-|     |-----gcr-codebase/
-|     |-----leet-code-codebase/
-|     |-----scenario-based-codebase/
-|-----README.md/
-```
+│
+├── core-java-practice/
+│   ├── 📁gcr-codebase/
+│   │   ├── 📁arrays/
+│   │   ├── 📁control-flow/
+│   │   ├── 📁 extras/
+│   │   ├── 📁methods/
+│   │   ├── 📁programming-elements/
+│   │   ├── 📁program-prerequisites/
+│   │   └── 📁strings/
+│   ├── 📁leet-code-codebase/
+│   ├── 📁scenario-based-codebase/   
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    
+│   │               └── 📁 constructor/      
+│   │               └── 📁 encapsulation/    
+│   │               └── 📁 inheritance/    
+│   │               └── 📁 objectmodeling/      
+│   │               └── 📁 oops/inbuiltfunctions/                    
+│   └── 📁 scenario-based-codebase/           
+|
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   |    └── 📁 JavaDSAConcepts/
+│   |     └── 📁 src/
+│   |           └── 📁 com/
+│   |               ├── 📁 challengeproblems
+│   |               └── 📁 filereaderandinputstreamreader          
+│   |               └── 📁 hashmaps/            
+│   |               └── 📁 linkedlist/          
+│   |               └── 📁 runtimeanalysisofalgo/
+│   |               └── 📁 searching/
+│   |               └── 📁 sorting/
+│   |               └── 📁 stackandqueue/
+│   |               └── 📁 stringbuffer/
+│   |               └── 📁 stringbuilder/
+|   └── 📁 scenario-based-codebase/
+|
+└── 📁 java-collections-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 JavaCollectionsConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+│                   ├── 📁 generics
+│                   └── 📁 collections          
+│                   └── 📁 hashmaps/            
+│                   └── 📁 linkedlist/   
+|
+└── 📁 java-io-streams-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 JavaIOStreamsConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+│                   ├── 📁 csv
+│                   └── 📁 json   
+|
+└── 📁 java8-programming-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 Java8ProgrammingConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+│                   ├── 📁 collectors/
+│                   └── 📁 functionalinterfaces/       
+│                   └── 📁 interfaces/            
+│                   └── 📁 lambdaexpressions/
+|                   └── 📁 streamapi/
+|                   └── 📁 workshop/smartcity/
+|
+│   └── 📁 scenario-based-codebase/
+│      └── 📁 Java8ProgrammingConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+│                   ├── 📁 scenariobased/
+|
+└── 📁 java-design-pattern-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 DesignConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+|               ├── 📁 designprinciples/
+│               └── 📁 multithreading/       
+│               └── 📁 classdiagrams/  
+|
+└── 📁 java8-programming-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 Java8ProgrammingConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+│                   ├── 📁 collectors/
+│                   └── 📁 functionalinterfaces/       
+│                   └── 📁 interfaces/            
+│                   └── 📁 lambdaexpressions/
+|                   └── 📁 streamapi/
+|                   └── 📁 workshop/smartcity/
+└── README.md
 
 ## Week 1: Git, GitHub & Core Java Fundamentals
 
