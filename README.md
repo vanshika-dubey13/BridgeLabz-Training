@@ -732,3 +732,16 @@ BridgeLabz-Training/
 [Scenario Based : MySQL](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase)
 
 ---
+
+### Day 3 – Introduction to JDBC
+**Date:** 08-Feb-2026
+
+> Studied JDBC API
+> Connecting Java app with MySQL database
+> - 7 Step Connection
+> - Interfaces :
+> - Driver, Connection, Statement, PreparedStatement, CallableStatement, ResultSet
+
+[JDBC](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/com/jdbc)
+
+---
