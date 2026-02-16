@@ -22,7 +22,7 @@
 > - Parsing JSON Data
 > - JSON Schema Validation
 
-[JSON File Handling]()
+[JSON File Handling](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/iostream/json)
 
 ---
 
@@ -30,10 +30,10 @@
 **Date:** 27-Jan-2026
 
 > Solved scenario based problems based on JSON & CSV File handling
-> - EventTracker – Auto Audit System (Annotations + Reflection + JSON)
+> - HealthCheckPro
 > - MarkMate – Student Marksheet Generator (CSV + JSON)
 
-[EventTracker]()
-[MarkMate]()
+[HealthCheckPro](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/scenario-based-codebase/JavaIOStreamsConcepts/src/com/scenariobased/healthcheckpro)
+[MarkMate](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/scenario-based-codebase/JavaIOStreamsConcepts/src/com/scenariobased/markmate)
 
 ---
