@@ -679,3 +679,14 @@ BridgeLabz-Training/
 [Design Patterns]()
 
 ---
+
+### Day 2 – Multithreading
+**Date:** 02-Feb-2026
+
+> Introduction to Multithreading
+> Thread Class
+> - Thread Class methods : start(), yield(), sleep(), join()
+> Runnable Interface
+> Lifecycle of Thread
+
+[Multithreading](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
