@@ -11,7 +11,7 @@ Object-Oriented Programming (OOP) : OOP principles, system design fundamentals, 
 
 The repository is continuously updated to reflect ongoing learning and skill development.
 
-
+```
 BridgeLabz-Training/
 │
 ├── core-java-practice/
@@ -113,6 +113,7 @@ BridgeLabz-Training/
 |                   └── 📁 streamapi/
 |                   └── 📁 workshop/smartcity/
 └── README.md
+```
 
 ## Week 1: Git, GitHub & Core Java Fundamentals
 
