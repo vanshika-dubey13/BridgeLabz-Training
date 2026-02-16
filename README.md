@@ -690,3 +690,13 @@ BridgeLabz-Training/
 > Lifecycle of Thread
 
 [Multithreading](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
+---
+
+### Day  – Scenario Based Question : Multithreading
+**Date:** 02-Feb-2026
+
+> Solved scenario based question on Multithreading
+> - Bank Transactions
+
+[Scenario Based : Multithreading](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/ScenarioPatternPractice/src/com/multithreading/bank)
