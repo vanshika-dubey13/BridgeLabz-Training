@@ -700,3 +700,19 @@ BridgeLabz-Training/
 > - Bank Transactions
 
 [Scenario Based : Multithreading](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/ScenarioPatternPractice/src/com/multithreading/bank)
+
+---
+
+## Week 8 : MySQL & JDBC
+
+### Day 1 – Introduction to MySQL
+**Date:** 06-Feb-2026
+
+> Introduction to MySQL
+> - Studied SQL commands
+> - DDL, DML, DCL, TCL, DQL
+> Implemented coding solutions using MySQL
+
+[MySQL](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/com/mysql)
+
+---
