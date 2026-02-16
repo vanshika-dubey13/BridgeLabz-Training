@@ -716,3 +716,19 @@ BridgeLabz-Training/
 [MySQL](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/com/mysql)
 
 ---
+
+### Day 2 – Scenario Based Questions : MySQL
+**Date:** 07-Feb-2026
+
+> Solved 6 scenario based questions using MySQL
+
+> - Patient Management
+> - Doctor Management
+> - Appountment Scheduling
+> - System Administration
+> - Billing & Payments
+> - Visit Management & Medical Records
+
+[Scenario Based : MySQL](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase)
+
+---
