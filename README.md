@@ -87,3 +87,15 @@ Code Link:
 
 ---
 
+## Section B : DBMS Fundamentals, Indexing & SQL Best Practices**
+**Day 35 –** Scenario-Based Practice
+**Date:** 07-Feb-2026
+
+> Solved 6 scenario-based problems.
+> Focused on logical thinking and real-world problem solving.
+> Committed and pushed all solutions.
+
+Code Links:
+[Scenario Based Problems](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/MySQLConcepts/src/com/day01)
+
+---
